@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077004961670643770",
+    "created_at": "2026-07-14T15:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077055398692212945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077055398692212945",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077054194054533169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 他妈的我也不想去但是又想去，左右脑互搏中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077004961670643770",
+        "created_at": "2026-07-14T15:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077055398692212945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077055398692212945",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077054194054533169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 他妈的我也不想去但是又想去，左右脑互搏中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2077004961670643770",
+        "created_at": "2026-07-14T15:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077054194054533169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077054194054533169",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077004961670643770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 我操了我他妈也是这个傻逼脑残医生我他妈再也不去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 279,
+          "like_count": 7350,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 726,
+          "like_count": 27598,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 5726
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2079322883424452963",
+    "created_at": "2026-07-21T03:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079401784167334366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1604387312863150080",
+          "start": 0,
+          "username": "sao_Y_yang163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079401784167334366",
+    "in_reply_to_user_id": "1604387312863150080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079393705375764723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sao_Y_yang163 你好😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2079322883424452963",
+        "created_at": "2026-07-21T03:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079401784167334366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1604387312863150080",
+              "start": 0,
+              "username": "sao_Y_yang163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079401784167334366",
+        "in_reply_to_user_id": "1604387312863150080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079393705375764723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sao_Y_yang163 你好😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604387312863150080",
+        "conversation_id": "2079322883424452963",
+        "created_at": "2026-07-21T02:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079393705375764723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079393705375764723",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079322883424452963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 320,
+          "like_count": 10529,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-18T08:05:30.000Z",
+        "description": "日本語/英語を勉強しています｜Welcome to send DM to me｜大一｜小0南梁｜168 55骗人是小狗｜泛性恋｜喜欢做自己的特别的人｜不混圈子｜好抽｜会割｜玉玉转双相｜喜欢音乐 电脑 语言 好多东西列举不完，欢迎dd我",
+        "id": "1604387312863150080",
+        "name": "呀喲YaYo",
+        "pinned_tweet_id": "2079086844323791306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077785823341334528/Sbv78u2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 141,
+          "like_count": 2925,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "sao_Y_yang163",
+        "verified": false
+      }
+    ]
+  }
+}

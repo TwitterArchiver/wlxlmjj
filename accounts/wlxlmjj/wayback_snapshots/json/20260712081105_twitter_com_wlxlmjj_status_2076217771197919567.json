@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076217768719044608"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076217771197919567",
+    "created_at": "2026-07-12T08:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076217771197919567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HFOtoPCcPi",
+          "end": 142,
+          "expanded_url": "https://x.com/wlxlmjj/status/2076217771197919567/photo/1",
+          "media_key": "3_2076217768719044608",
+          "start": 119,
+          "url": "https://t.co/HFOtoPCcPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076217771197919567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我（们）是条码\n门槛20，过了可以满足缺爱逼随时陪聊语音，纯绿\n18↑｜DIDsystem｜cptsd｜解离\n无意义的碎碎念\n垃圾桶\n喜欢互fo刷推，什么都fo除了片姐和人机\n聊天大好き，无门槛不聊黄，真不聊黄\n愿我们都能找到自己的答案 https://t.co/HFOtoPCcPi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1001,
+        "media_key": "3_2076217768719044608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA1D3TaUAANs8a.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076217768719044608"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076217771197919567",
+        "created_at": "2026-07-12T08:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076217771197919567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFOtoPCcPi",
+              "end": 142,
+              "expanded_url": "https://x.com/wlxlmjj/status/2076217771197919567/photo/1",
+              "media_key": "3_2076217768719044608",
+              "start": 119,
+              "url": "https://t.co/HFOtoPCcPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076217771197919567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我（们）是条码\n门槛20，过了可以满足缺爱逼随时陪聊语音，纯绿\n18↑｜DIDsystem｜cptsd｜解离\n无意义的碎碎念\n垃圾桶\n喜欢互fo刷推，什么都fo除了片姐和人机\n聊天大好き，无门槛不聊黄，真不聊黄\n愿我们都能找到自己的答案 https://t.co/HFOtoPCcPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 235,
+          "like_count": 5831,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      }
+    ]
+  }
+}

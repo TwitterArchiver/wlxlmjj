@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2074747686104998131",
+    "created_at": "2026-07-09T02:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075049141210910905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029938860399153152",
+          "start": 0,
+          "username": "guchen0304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075049141210910905",
+    "in_reply_to_user_id": "2029938860399153152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075046648661856685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guchen0304 已o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2074747686104998131",
+        "created_at": "2026-07-09T02:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075049141210910905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029938860399153152",
+              "start": 0,
+              "username": "guchen0304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075049141210910905",
+        "in_reply_to_user_id": "2029938860399153152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075046648661856685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guchen0304 已o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029938860399153152",
+        "conversation_id": "2074747686104998131",
+        "created_at": "2026-07-09T02:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075046648661856685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075046648661856685",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074747686104998131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 来o来o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 225,
+          "like_count": 5304,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T15:15:29.000Z",
+        "description": "Life has no meaning and no purpose",
+        "id": "2029938860399153152",
+        "name": "Chloe.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071581021855010816/eziZVW8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 117,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "guchen0304",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2081350158177235087",
+    "created_at": "2026-07-26T12:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081350158177235087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bochichan250hh…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Bochichan250hh/status/2081039613343191150",
+          "start": 3,
+          "url": "https://t.co/w0s28qTw9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081350158177235087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081039613343191150",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽 https://t.co/w0s28qTw9i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2081039520871387136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFWax0WkAA0z94.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2081350158177235087",
+        "created_at": "2026-07-26T12:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081350158177235087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bochichan250hh…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Bochichan250hh/status/2081039613343191150",
+              "start": 3,
+              "url": "https://t.co/w0s28qTw9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350158177235087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081039613343191150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽 https://t.co/w0s28qTw9i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081039520871387136"
+          ]
+        },
+        "author_id": "2063159075572158465",
+        "conversation_id": "2081039613343191150",
+        "created_at": "2026-07-25T15:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081039613343191150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irIpRtrtbF",
+              "end": 48,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2081039613343191150/photo/1",
+              "media_key": "3_2081039520871387136",
+              "start": 25,
+              "url": "https://t.co/irIpRtrtbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081039613343191150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19363,
+          "like_count": 622,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "数学家一辈子才研究出来的东西\n凭啥要我一节课学会 https://t.co/irIpRtrtbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 334,
+          "like_count": 11449,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户可以关注大号谢谢咯~\n苦练electric guitar 🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 601,
+          "like_count": 2778,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      }
+    ]
+  }
+}

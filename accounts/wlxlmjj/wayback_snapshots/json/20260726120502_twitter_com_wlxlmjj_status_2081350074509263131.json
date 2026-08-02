@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2081350074509263131",
+    "created_at": "2026-07-26T12:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081350074509263131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx3x/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/thexiexx3x/status/2081340231815668158",
+          "start": 3,
+          "url": "https://t.co/bHxHqjbRXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081350074509263131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081340231815668158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽 https://t.co/bHxHqjbRXi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2081350074509263131",
+        "created_at": "2026-07-26T12:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081350074509263131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx3x/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/thexiexx3x/status/2081340231815668158",
+              "start": 3,
+              "url": "https://t.co/bHxHqjbRXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350074509263131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081340231815668158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽 https://t.co/bHxHqjbRXi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2081340231815668158",
+        "created_at": "2026-07-26T11:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081340231815668158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bochichan250hh…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bochichan250hh/status/2081039613343191150",
+              "start": 5,
+              "url": "https://t.co/04tV8pE6Ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081340231815668158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081039613343191150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是啊！ https://t.co/04tV8pE6Ue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 334,
+          "like_count": 11449,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 227,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

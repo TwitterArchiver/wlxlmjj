@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076730830643421644",
+    "created_at": "2026-07-13T18:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076731408794685820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952041333096628224",
+          "start": 0,
+          "username": "babyyuuulove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076731408794685820",
+    "in_reply_to_user_id": "1952041333096628224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076731258626019830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babyyuuulove 妈呀祝早日下班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076730830643421644",
+        "created_at": "2026-07-13T18:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076731408794685820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952041333096628224",
+              "start": 0,
+              "username": "babyyuuulove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076731408794685820",
+        "in_reply_to_user_id": "1952041333096628224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076731258626019830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babyyuuulove 妈呀祝早日下班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952041333096628224",
+        "conversation_id": "2076730830643421644",
+        "created_at": "2026-07-13T18:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076731258626019830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076731258626019830",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076730830643421644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 上班。是不是太惨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 254,
+          "like_count": 6507,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:18:27.000Z",
+        "description": "",
+        "id": "1952041333096628224",
+        "location": "Tokyo-to, Japan",
+        "name": "Claviclenail",
+        "pinned_tweet_id": "2020938735916023850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054174400694611968/MI1E4rEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 350,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "babyyuuulove",
+        "verified": false
+      }
+    ]
+  }
+}

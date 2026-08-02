@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076726578051248271",
+    "created_at": "2026-07-14T00:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076832067057586191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076832067057586191",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076830417462997444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@todorokidoya1 欢迎欢迎😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076726578051248271",
+        "created_at": "2026-07-14T00:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076832067057586191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076832067057586191",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076830417462997444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@todorokidoya1 欢迎欢迎😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946149148878852096",
+        "conversation_id": "2076726578051248271",
+        "created_at": "2026-07-14T00:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076830417462997444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076830417462997444",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076726578051248271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 我来😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 260,
+          "like_count": 6729,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\nhttps://t.co/bOs5bg4qr3\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "o0omftft"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0o%E2%80%860",
+                "end": 30,
+                "expanded_url": "https://ngl.link/0o%E2%80%860",
+                "start": 7,
+                "url": "https://t.co/bOs5bg4qr3"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "画中世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2067946828298121465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 461,
+          "like_count": 44172,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 2916
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

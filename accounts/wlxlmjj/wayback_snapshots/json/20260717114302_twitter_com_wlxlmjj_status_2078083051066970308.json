@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2078074413417685413",
+    "created_at": "2026-07-17T11:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078083051066970308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537800740969672709",
+          "start": 0,
+          "username": "zhiyishuyuese3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078083051066970308",
+    "in_reply_to_user_id": "1537800740969672709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078074413417685413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyishuyuese3 女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078074400734097408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbNqEiWsAAfhh8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2078074413417685413",
+        "created_at": "2026-07-17T11:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078083051066970308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537800740969672709",
+              "start": 0,
+              "username": "zhiyishuyuese3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078083051066970308",
+        "in_reply_to_user_id": "1537800740969672709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078074413417685413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyishuyuese3 女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078074400734097408"
+          ]
+        },
+        "author_id": "1537800740969672709",
+        "conversation_id": "2078074413417685413",
+        "created_at": "2026-07-17T11:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078074413417685413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7huheYdKgM",
+              "end": 23,
+              "expanded_url": "https://x.com/zhiyishuyuese3/status/2078074413417685413/photo/1",
+              "media_key": "3_2078074400734097408",
+              "start": 0,
+              "url": "https://t.co/7huheYdKgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078074413417685413",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7huheYdKgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 308,
+          "like_count": 8977,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-17T14:14:14.000Z",
+        "description": "@er_zuo96208 被封 巡回互关中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "er_zuo96208"
+              }
+            ]
+          }
+        },
+        "id": "1537800740969672709",
+        "name": "老公孩子在天堂（二世巡回互关中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049366686600712192/66ahbrly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 66,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "zhiyishuyuese3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076504005195505724",
+    "created_at": "2026-07-13T06:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076561869159219243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        },
+        {
+          "end": 29,
+          "id": "1554143104478851074",
+          "start": 17,
+          "username": "mishizi0804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076561869159219243",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076522460762308946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 @mishizi0804 屮度洛西汀我也在吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076504005195505724",
+        "created_at": "2026-07-13T06:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076561869159219243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 29,
+              "id": "1554143104478851074",
+              "start": 17,
+              "username": "mishizi0804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076561869159219243",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076522460762308946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @mishizi0804 屮度洛西汀我也在吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2076504005195505724",
+        "created_at": "2026-07-13T04:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076522460762308946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554143104478851074",
+              "start": 0,
+              "username": "mishizi0804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076522460762308946",
+        "in_reply_to_user_id": "1554143104478851074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076519117990035771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mishizi0804 加吧喷丁和度罗西汀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076217771197919567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 241,
+          "like_count": 6019,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 725
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 465,
+          "like_count": 9812,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T16:32:57.000Z",
+        "description": "是个吃糖的人妖，愿望是想要一个满眼都是我的人",
+        "id": "1554143104478851074",
+        "location": "嘉兴 南湖区",
+        "name": "小元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011614931691425792/L__2RqNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 50,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "mishizi0804",
+        "verified": false
+      }
+    ]
+  }
+}

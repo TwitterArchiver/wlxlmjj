@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076856362542465433",
+    "created_at": "2026-07-14T04:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076880334856298968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2021958978834685952",
+          "start": 0,
+          "username": "Zzerro77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076880334856298968",
+    "in_reply_to_user_id": "2021958978834685952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076879984451543176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzerro77 我也想问啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076856362542465433",
+        "created_at": "2026-07-14T04:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076880334856298968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021958978834685952",
+              "start": 0,
+              "username": "Zzerro77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076880334856298968",
+        "in_reply_to_user_id": "2021958978834685952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076879984451543176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzerro77 我也想问啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021958978834685952",
+        "conversation_id": "2076856362542465433",
+        "created_at": "2026-07-14T04:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076879984451543176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076879984451543176",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076856362542465433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 这到底是什么雷霆梦啊!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 262,
+          "like_count": 6810,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T14:46:10.000Z",
+        "description": "我觉得你有我就够了呀 =⩌⩊⩌=\n另一个我@Zzzero7777\n07/碎碎念/欢迎过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Zzzero7777"
+              }
+            ]
+          }
+        },
+        "id": "2021958978834685952",
+        "location": "🚪",
+        "name": "魚（重生版）",
+        "pinned_tweet_id": "2076844943671513535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076344568472330240/9GCMsmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 31,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "Zzerro77",
+        "verified": false
+      }
+    ]
+  }
+}

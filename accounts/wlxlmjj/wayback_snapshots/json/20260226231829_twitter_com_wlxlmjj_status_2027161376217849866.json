@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027161373126615041"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2027161376217849866",
+    "created_at": "2026-02-26T23:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T00:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027161376217849866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinitetweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/z0uHgXZ8oA"
+        },
+        {
+          "display_url": "pic.x.com/jalPY1hZXa",
+          "end": 64,
+          "expanded_url": "https://x.com/wlxlmjj/status/2027161376217849866/photo/1",
+          "media_key": "3_2027161373126615041",
+          "start": 41,
+          "url": "https://t.co/jalPY1hZXa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027161376217849866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/z0uHgXZ8oA https://t.co/jalPY1hZXa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2027161373126615041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHsh0ua4AEJwSn.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027161373126615041"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2027161376217849866",
+        "created_at": "2026-02-26T23:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027161376217849866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/z0uHgXZ8oA"
+            },
+            {
+              "display_url": "pic.x.com/jalPY1hZXa",
+              "end": 64,
+              "expanded_url": "https://x.com/wlxlmjj/status/2027161376217849866/photo/1",
+              "media_key": "3_2027161373126615041",
+              "start": 41,
+              "url": "https://t.co/jalPY1hZXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027161376217849866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/z0uHgXZ8oA https://t.co/jalPY1hZXa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 44,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 170
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      }
+    ]
+  }
+}

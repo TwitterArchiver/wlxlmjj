@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2057268871648997812",
+    "created_at": "2026-05-21T01:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057268871648997812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YiJin_0v0/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/YiJin_0v0/status/2057214089320153097",
+          "start": 4,
+          "url": "https://t.co/liksh80rR5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057268871648997812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057214089320153097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没绷住 https://t.co/liksh80rR5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2057268871648997812",
+        "created_at": "2026-05-21T01:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057268871648997812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YiJin_0v0/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/YiJin_0v0/status/2057214089320153097",
+              "start": 4,
+              "url": "https://t.co/liksh80rR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057268871648997812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057214089320153097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没绷住 https://t.co/liksh80rR5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2057214089320153097",
+        "created_at": "2026-05-20T21:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057214089320153097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057214089320153097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你像是那种往胶囊里塞点晚安和pr说是策划的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 178,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 578
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n^✟❀上有小下有老❀小号@Kuromi_ooooo❀好友@Melody_0v0_✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "Kuromi_ooooo"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Melody_0v0_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/kE9DaJnuRC"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "你看看你身后",
+        "name": "3.霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2057151532957860022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 739,
+          "like_count": 7606,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 4416
+        },
+        "url": "https://t.co/kE9DaJnuRC",
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077123407574171829",
+    "created_at": "2026-07-14T20:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077124490505695638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045075693231325184",
+          "start": 0,
+          "username": "zhiiii_tan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077124490505695638",
+    "in_reply_to_user_id": "2045075693231325184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077123407574171829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiiii_tan 找我😎🖐️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077123407574171829",
+        "created_at": "2026-07-14T20:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077124490505695638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045075693231325184",
+              "start": 0,
+              "username": "zhiiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077124490505695638",
+        "in_reply_to_user_id": "2045075693231325184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077123407574171829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiiii_tan 找我😎🖐️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045075693231325184",
+        "conversation_id": "2077123407574171829",
+        "created_at": "2026-07-14T20:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077123407574171829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077123407574171829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好痛苦我想找人聊天，都没人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 287,
+          "like_count": 7758,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T09:43:45.000Z",
+        "description": "之之小号🐖🐖\n@zhiii_tan\n可以叫我之之|生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动| 我没有觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀|互fo直关 没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "zhiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/lAItPgWMcf"
+              }
+            ]
+          }
+        },
+        "id": "2045075693231325184",
+        "location": "蓝色宇宙",
+        "name": "room818",
+        "pinned_tweet_id": "2077047057752510915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063574993687154688/R3LQGssM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 56,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/lAItPgWMcf",
+        "username": "zhiiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

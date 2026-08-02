@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2067585676342948145",
+    "created_at": "2026-06-20T01:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068147954570129749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068147954570129749",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067585676342948145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 老大现在还能磕啥啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2067585676342948145",
+        "created_at": "2026-06-20T01:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068147954570129749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068147954570129749",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067585676342948145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 老大现在还能磕啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2067585676342948145",
+        "created_at": "2026-06-18T12:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067585676342948145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067585676342948145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊，自从出院了，每天都在家，好无聊。感觉干什么都是打发时间，直到死亡。画画嗑药看手机之类的都是一样的，都是在打发时间，可是我的生命还有这么漫长啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 177,
+          "like_count": 3489,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 445,
+          "like_count": 1225,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

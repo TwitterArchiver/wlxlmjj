@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2026987855634215284",
+    "created_at": "2026-02-26T11:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026987855634215284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0TwT012/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/0TwT012/status/2026562726693318913",
+          "start": 4,
+          "url": "https://t.co/9fkv3mNwq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026987855634215284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026562726693318913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好主意 https://t.co/9fkv3mNwq0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2026987855634215284",
+        "created_at": "2026-02-26T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026987855634215284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0TwT012/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/0TwT012/status/2026562726693318913",
+              "start": 4,
+              "url": "https://t.co/9fkv3mNwq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026987855634215284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026562726693318913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好主意 https://t.co/9fkv3mNwq0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026562726693318913",
+        "created_at": "2026-02-25T07:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026562726693318913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026562726693318913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 61001,
+          "like_count": 1859,
+          "quote_count": 13,
+          "reply_count": 10,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "发明盲抽的以后去银行取钱十张里面只有一张是真钞你抽吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 40,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 161
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 213,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 378
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2078450416879329735",
+    "created_at": "2026-07-18T13:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078475837704380560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062164542541479936",
+          "start": 0,
+          "username": "pai6676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078475837704380560",
+    "in_reply_to_user_id": "2062164542541479936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078469528661656014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pai6676 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2078450416879329735",
+        "created_at": "2026-07-18T13:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078475837704380560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062164542541479936",
+              "start": 0,
+              "username": "pai6676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078475837704380560",
+        "in_reply_to_user_id": "2062164542541479936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078469528661656014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pai6676 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "conversation_id": "2078450416879329735",
+        "created_at": "2026-07-18T13:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078469528661656014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078469528661656014",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078450416879329735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 被騙的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 314,
+          "like_count": 9361,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "=PAI https://t.co/Nke8gtyGiO 問答：https://t.co/L3jQ4ftthl\n手殘bass手｜座右铭｜我想要让所有oder获得爱！！\n性別男｜患有边缘性人格 ｜BPD｜歡迎互fo\n（讨厌转性别者介意者請注意）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 28,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 5,
+                "url": "https://t.co/Nke8gtyGiO"
+              },
+              {
+                "display_url": "ngl.link/pai30558",
+                "end": 55,
+                "expanded_url": "https://ngl.link/pai30558",
+                "start": 32,
+                "url": "https://t.co/L3jQ4ftthl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 23,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 0,
+                "url": "https://t.co/Nke8gtyGiO"
+              }
+            ]
+          }
+        },
+        "id": "2062164542541479936",
+        "location": "地獄",
+        "name": "愈美戰士",
+        "pinned_tweet_id": "2077244714529755600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 112,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/Nke8gtyGiO",
+        "username": "pai6676",
+        "verified": false
+      }
+    ]
+  }
+}

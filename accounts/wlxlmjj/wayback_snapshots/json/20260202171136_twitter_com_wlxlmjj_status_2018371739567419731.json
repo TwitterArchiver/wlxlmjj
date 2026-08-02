@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018371736895647746"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "conversation_id": "2018371739567419731",
+    "created_at": "2026-02-02T17:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018371739567419731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Icl4sMDNN7",
+          "end": 37,
+          "expanded_url": "https://x.com/wlxlmjj/status/2018371739567419731/photo/1",
+          "media_key": "3_2018371736895647746",
+          "start": 14,
+          "url": "https://t.co/Icl4sMDNN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018371739567419731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没绷住，谁那个愿意和我互关 https://t.co/Icl4sMDNN7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018371736895647746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKyZqJacAIPhsB.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018371736895647746"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "conversation_id": "2018371739567419731",
+        "created_at": "2026-02-02T17:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018371739567419731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Icl4sMDNN7",
+              "end": 37,
+              "expanded_url": "https://x.com/wlxlmjj/status/2018371739567419731/photo/1",
+              "media_key": "3_2018371736895647746",
+              "start": 14,
+              "url": "https://t.co/Icl4sMDNN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018371739567419731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没绷住，谁那个愿意和我互关 https://t.co/Icl4sMDNN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      }
+    ]
+  }
+}

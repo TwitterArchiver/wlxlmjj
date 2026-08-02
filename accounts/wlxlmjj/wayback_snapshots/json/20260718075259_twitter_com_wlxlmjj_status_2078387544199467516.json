@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2078214866033356939",
+    "created_at": "2026-07-18T07:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078387544199467516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076213440448770048",
+          "start": 0,
+          "username": "ShenMiDeMan78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078387544199467516",
+    "in_reply_to_user_id": "2076213440448770048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078360869105283320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShenMiDeMan78 还真是。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2078214866033356939",
+        "created_at": "2026-07-18T07:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078387544199467516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076213440448770048",
+              "start": 0,
+              "username": "ShenMiDeMan78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078387544199467516",
+        "in_reply_to_user_id": "2076213440448770048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078360869105283320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShenMiDeMan78 还真是。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076213440448770048",
+        "conversation_id": "2078214866033356939",
+        "created_at": "2026-07-18T06:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078360869105283320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078360869105283320",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078214866033356939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 感觉披萨就想新疆的大馕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 312,
+          "like_count": 9182,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-12T07:54:43.000Z",
+        "description": "所有言论皆是个人胡言乱语，不要辱骂我我是傻子，无聊想找我聊天的无论男女随时都可\n🚪2.5｜生产日期05.12.20｜正在从-1到0前进中😊\n           提问箱📭https://t.co/iApCPBErzz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fong64111",
+                "end": 108,
+                "expanded_url": "http://ngl.link/fong64111",
+                "start": 85,
+                "url": "https://t.co/iApCPBErzz"
+              }
+            ]
+          }
+        },
+        "id": "2076213440448770048",
+        "location": "风里雨里",
+        "name": "神秘奇男子",
+        "pinned_tweet_id": "2078076112488235120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077078995972001792/v_S27oSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 11,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "ShenMiDeMan78",
+        "verified": false
+      }
+    ]
+  }
+}

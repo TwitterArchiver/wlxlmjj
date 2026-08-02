@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078862840174424065"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "conversation_id": "2078862846889492642",
+    "created_at": "2026-07-19T15:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078862846889492642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3VqTDAtpT",
+          "end": 25,
+          "expanded_url": "https://x.com/wlxlmjj/status/2078862846889492642/photo/1",
+          "media_key": "3_2078862840174424065",
+          "start": 2,
+          "url": "https://t.co/j3VqTDAtpT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078862846889492642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蚌 https://t.co/j3VqTDAtpT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2078862840174424065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmavSVbMAEzpZu.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078862840174424065"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "conversation_id": "2078862846889492642",
+        "created_at": "2026-07-19T15:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078862846889492642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3VqTDAtpT",
+              "end": 25,
+              "expanded_url": "https://x.com/wlxlmjj/status/2078862846889492642/photo/1",
+              "media_key": "3_2078862840174424065",
+              "start": 2,
+              "url": "https://t.co/j3VqTDAtpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078862846889492642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蚌 https://t.co/j3VqTDAtpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 317,
+          "like_count": 9782,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      }
+    ]
+  }
+}

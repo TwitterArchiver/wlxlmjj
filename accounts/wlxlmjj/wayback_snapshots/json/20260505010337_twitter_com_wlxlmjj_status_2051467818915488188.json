@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2051467818915488188",
+    "created_at": "2026-05-05T01:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051467818915488188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2046990809908879368",
+          "start": 3,
+          "username": "silentbleeding1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051467818915488188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051150939533590911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silentbleeding1: 恳请前世列表帮我转转帖，寻回前世推友中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2051467818915488188",
+        "created_at": "2026-05-05T01:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051467818915488188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2046990809908879368",
+              "start": 3,
+              "username": "silentbleeding1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051467818915488188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051150939533590911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silentbleeding1: 恳请前世列表帮我转转帖，寻回前世推友中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046990809908879368",
+        "conversation_id": "2051150939533590911",
+        "created_at": "2026-05-04T04:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051150939533590911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silentbleeding…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/silentbleeding1/status/2051143415124086879",
+              "start": 21,
+              "url": "https://t.co/DMjmEQspMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051150939533590911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5915,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051143415124086879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恳请前世列表帮我转转帖，寻回前世推友中… https://t.co/DMjmEQspMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 183,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 568
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T16:36:22.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、#shtwt、#odtwt。成分复杂，曾经骑单车，三岛由纪夫，钢琴，硬/前卫/蓝调/独立摇滚，jpop…虚无主义重建欲望中…负能，日常发神经吐苦水，友所有群体，查成分回fo。永远怀念——被封的大号@Lizzy_522",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "shtwt"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/AQMnPR82BG"
+              }
+            ]
+          }
+        },
+        "id": "2046990809908879368",
+        "name": "リジー 2.0（推友寻回中）",
+        "pinned_tweet_id": "2051150939533590911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047319984494534656/-SRMKdXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 265,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/AQMnPR82BG",
+        "username": "silentbleeding1",
+        "verified": false
+      }
+    ]
+  }
+}

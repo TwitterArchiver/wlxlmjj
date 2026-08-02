@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077430324318147048",
+    "created_at": "2026-07-16T04:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077615826988118461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804152041188823040",
+          "start": 0,
+          "username": "xxiba_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077615826988118461",
+    "in_reply_to_user_id": "1804152041188823040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077430324318147048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxiba_king 妹妹头的狗来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077430281955676162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSD1bGbkAIydUq.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077430324318147048",
+        "created_at": "2026-07-16T04:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077615826988118461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804152041188823040",
+              "start": 0,
+              "username": "xxiba_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077615826988118461",
+        "in_reply_to_user_id": "1804152041188823040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077430324318147048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxiba_king 妹妹头的狗来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077430281955676162"
+          ]
+        },
+        "author_id": "1804152041188823040",
+        "conversation_id": "2077430324318147048",
+        "created_at": "2026-07-15T16:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077430324318147048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1a7dctVzbE",
+              "end": 23,
+              "expanded_url": "https://x.com/xxiba_king/status/2077430324318147048/photo/1",
+              "media_key": "3_2077430281955676162",
+              "start": 0,
+              "url": "https://t.co/1a7dctVzbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077430324318147048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1a7dctVzbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 299,
+          "like_count": 8479,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-21T13:59:12.000Z",
+        "description": "门槛66，得不到任何好处，只有一个有趣的我",
+        "id": "1804152041188823040",
+        "location": "我很脆弱 ",
+        "name": "别他妈问我怎么办",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039056583498600448/KdqPt69A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "xxiba_king",
+        "verified": false
+      }
+    ]
+  }
+}

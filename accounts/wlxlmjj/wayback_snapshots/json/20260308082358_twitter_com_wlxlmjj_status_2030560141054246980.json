@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2030559939006271893",
+    "created_at": "2026-03-08T08:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030560141054246980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030560141054246980",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030560021722124558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 不行了我的华为平板网页版都用不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2030559939006271893",
+        "created_at": "2026-03-08T08:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030560141054246980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030560141054246980",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030560021722124558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 不行了我的华为平板网页版都用不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2030559939006271893",
+        "created_at": "2026-03-08T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030560021722124558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030560021722124558",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030559939006271893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 网页版可以……软件好卡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 51,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 186
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "最强大脑的天才末影人🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生/✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "dbdbsjbsja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2024329117580349689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 703,
+          "like_count": 27685,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 9778
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

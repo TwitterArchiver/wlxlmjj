@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2037237196512780457",
+    "created_at": "2026-03-26T18:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037237363206938771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037237363206938771",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037237196512780457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 我来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2037237196512780457",
+        "created_at": "2026-03-26T18:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037237363206938771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037237363206938771",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037237196512780457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 我来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2037237196512780457",
+        "created_at": "2026-03-26T18:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037237196512780457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037237196512780457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好想有一位固定的朋友陪我聊一切东西讨论一切 为什么人总是那么孤独 不管我做什么都是一个人 从上次我吃过了有佐匹克隆和思诺思之后。或者什么时候？好吧反正三四天我看东西一直有重影……但是可能我抗药性比较强一直没有幻觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 95,
+          "like_count": 2097,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 294
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好…\n我会塔罗占卜可以找我\n加v🚪25\n 打钱我会主动找你说话",
+        "id": "1933114395854610432",
+        "location": "中国",
+        "name": "Marvin",
+        "pinned_tweet_id": "2037224009323118875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

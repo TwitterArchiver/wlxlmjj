@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2024728468194545990",
+    "created_at": "2026-02-20T06:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024728731349372941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024728731349372941",
+    "in_reply_to_user_id": "1894997343088656384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024728468194545990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是哥们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024728463576530944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlHz2YaAAAnaFc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024728463807303682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlHz3PbUAIom-z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024728465183055872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlHz8XboAAMLVF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2024728468194545990",
+        "created_at": "2026-02-20T06:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024728731349372941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024728731349372941",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024728468194545990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是哥们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024728463576530944",
+            "3_2024728463807303682",
+            "3_2024728465183055872"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "conversation_id": "2024728468194545990",
+        "created_at": "2026-02-20T06:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024728468194545990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4j9wGsuiVl",
+              "end": 44,
+              "expanded_url": "https://x.com/wlxlmjj/status/2024728468194545990/photo/1",
+              "media_key": "3_2024728463576530944",
+              "start": 21,
+              "url": "https://t.co/4j9wGsuiVl"
+            },
+            {
+              "display_url": "pic.x.com/4j9wGsuiVl",
+              "end": 44,
+              "expanded_url": "https://x.com/wlxlmjj/status/2024728468194545990/photo/1",
+              "media_key": "3_2024728463807303682",
+              "start": 21,
+              "url": "https://t.co/4j9wGsuiVl"
+            },
+            {
+              "display_url": "pic.x.com/4j9wGsuiVl",
+              "end": 44,
+              "expanded_url": "https://x.com/wlxlmjj/status/2024728468194545990/photo/1",
+              "media_key": "3_2024728465183055872",
+              "start": 21,
+              "url": "https://t.co/4j9wGsuiVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024728468194545990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯主播的胳膊像腿一样粗，腿像jb一样粗。 https://t.co/4j9wGsuiVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 32,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 84
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      }
+    ]
+  }
+}

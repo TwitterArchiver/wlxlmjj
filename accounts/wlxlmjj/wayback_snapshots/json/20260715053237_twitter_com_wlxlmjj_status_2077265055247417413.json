@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077037507196428542",
+    "created_at": "2026-07-15T05:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077265055247417413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772860258710622208",
+          "start": 0,
+          "username": "xxxixixmwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077265055247417413",
+    "in_reply_to_user_id": "1772860258710622208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077251936542245359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxixixmwt 那是必然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077037507196428542",
+        "created_at": "2026-07-15T05:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077265055247417413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772860258710622208",
+              "start": 0,
+              "username": "xxxixixmwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077265055247417413",
+        "in_reply_to_user_id": "1772860258710622208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077251936542245359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxixixmwt 那是必然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772860258710622208",
+        "conversation_id": "2077037507196428542",
+        "created_at": "2026-07-15T04:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077251936542245359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077251936542245359",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077037507196428542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 还有隐藏技能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 293,
+          "like_count": 7929,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "叫我笑笑｜无限期休学躺平欢迎互fo来玩｜od割手双相情感障碍｜@xxbxixi小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "xxbxixi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1O7D"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "name": "网警",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 113,
+          "like_count": 2515,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/AZm1US1O7D",
+        "username": "xxxixixmwt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2022094519941181858",
+    "created_at": "2026-02-13T15:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022336087033872417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885765075996393472",
+          "start": 0,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022336087033872417",
+    "in_reply_to_user_id": "1885765075996393472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022094519941181858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maitakoo 互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2022094519941181858",
+        "created_at": "2026-02-13T15:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022336087033872417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022336087033872417",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022094519941181858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885765075996393472",
+        "conversation_id": "2022094519941181858",
+        "created_at": "2026-02-12T23:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022094519941181858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022094519941181858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 387,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同类来和我互fo好吗好吗我有点无聊有点孤独了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 58,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od自伤｜同类互fo",
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2022094519941181858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 51,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 435
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

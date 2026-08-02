@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2037783603170742360",
+    "created_at": "2026-04-02T00:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T01:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039507074506502654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819329211162939395",
+          "start": 0,
+          "username": "i9_chen"
+        },
+        {
+          "end": 22,
+          "id": "1934856553909374976",
+          "start": 9,
+          "username": "yi_qiao29643"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039507074506502654",
+    "in_reply_to_user_id": "1819329211162939395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039500432503128225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i9_chen @yi_qiao29643 我操幻痛，尿尿不会痛死吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2037783603170742360",
+        "created_at": "2026-04-02T00:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039507074506502654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819329211162939395",
+              "start": 0,
+              "username": "i9_chen"
+            },
+            {
+              "end": 22,
+              "id": "1934856553909374976",
+              "start": 9,
+              "username": "yi_qiao29643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039507074506502654",
+        "in_reply_to_user_id": "1819329211162939395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039500432503128225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i9_chen @yi_qiao29643 我操幻痛，尿尿不会痛死吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819329211162939395",
+        "conversation_id": "2037783603170742360",
+        "created_at": "2026-04-02T00:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039500432503128225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934856553909374976",
+              "start": 0,
+              "username": "yi_qiao29643"
+            },
+            {
+              "end": 22,
+              "id": "1894997343088656384",
+              "start": 14,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039500432503128225",
+        "in_reply_to_user_id": "1934856553909374976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037967590660984924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_qiao29643 @wlxlmjj 我看到过歌阴唇的嗯对还有大腿根趾骨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 154,
+          "like_count": 3157,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 482
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T11:07:59.000Z",
+        "description": "",
+        "id": "1819329211162939395",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "装忧郁被狗追",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028936545571618816/SSf4EFYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 113,
+          "like_count": 4559,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 168
+        },
+        "username": "i9_chen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T06:12:18.000Z",
+        "description": "",
+        "id": "1934856553909374976",
+        "location": "Seongbuk-gu, Republic of Korea",
+        "name": "樱花🇯🇵🇹🇼🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980513668660965376/qDVuMuJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 159,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "yi_qiao29643",
+        "verified": false
+      }
+    ]
+  }
+}

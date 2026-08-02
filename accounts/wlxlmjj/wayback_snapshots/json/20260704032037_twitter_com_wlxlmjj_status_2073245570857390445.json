@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2073076461981110616",
+    "created_at": "2026-07-04T03:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073245570857390445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653266334619402245",
+          "start": 0,
+          "username": "itsagoodnameO_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073245570857390445",
+    "in_reply_to_user_id": "1653266334619402245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073076461981110616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsagoodnameO_o 你也收到了这个人的私信啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073076451730157568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUMDJmacAAavNA.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2073076461981110616",
+        "created_at": "2026-07-04T03:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073245570857390445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073245570857390445",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073076461981110616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 你也收到了这个人的私信啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073076451730157568"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "2073076461981110616",
+        "created_at": "2026-07-03T16:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073076461981110616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4ZnmHEdYe",
+              "end": 28,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2073076461981110616/photo/1",
+              "media_key": "3_2073076451730157568",
+              "start": 5,
+              "url": "https://t.co/g4ZnmHEdYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073076461981110616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥意思。 https://t.co/g4ZnmHEdYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 172,
+          "like_count": 4252,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 113,
+          "like_count": 1557,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

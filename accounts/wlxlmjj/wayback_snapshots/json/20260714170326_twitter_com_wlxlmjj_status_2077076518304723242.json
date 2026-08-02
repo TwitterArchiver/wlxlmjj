@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077075076168712557",
+    "created_at": "2026-07-14T17:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077076518304723242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054583279257583616",
+          "start": 0,
+          "username": "thexiexx3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077076518304723242",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077075899904819298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thexiexx3x 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077075076168712557",
+        "created_at": "2026-07-14T17:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077076518304723242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077076518304723242",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077075899904819298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2077075076168712557",
+        "created_at": "2026-07-14T17:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077075899904819298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077075899904819298",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077075076168712557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 火速认领🔥🔥🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 283,
+          "like_count": 7387,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n                                     体温箱▼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 182,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

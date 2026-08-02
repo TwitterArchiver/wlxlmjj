@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079696733957926913"
+      ],
+      "media_source_tweet_id": [
+        "2079696743772688836"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079853034147131449",
+    "created_at": "2026-07-22T08:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079853034147131449"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "愈美"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "玉米片"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "pr80"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "od"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756375529513791488",
+          "start": 3,
+          "username": "mTQtZIetsS67719"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6effUaOW0G",
+          "end": 79,
+          "expanded_url": "https://x.com/mTQtZIetsS67719/status/2079696743772688836/photo/1",
+          "media_key": "3_2079696733957926913",
+          "start": 56,
+          "url": "https://t.co/6effUaOW0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079853034147131449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079696743772688836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mTQtZIetsS67719: #普瑞巴林 #愈美 #玉米片 #pr80 #od 出售，欢迎来询问。 https://t.co/6effUaOW0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079696733957926913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyRKSwaMAEe_7-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079696733957926913"
+          ]
+        },
+        "author_id": "1756375529513791488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079696743772688836",
+        "created_at": "2026-07-21T22:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079696743772688836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "愈美"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "玉米片"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "pr80"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6effUaOW0G",
+              "end": 58,
+              "expanded_url": "https://x.com/mTQtZIetsS67719/status/2079696743772688836/photo/1",
+              "media_key": "3_2079696733957926913",
+              "start": 35,
+              "url": "https://t.co/6effUaOW0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079696743772688836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#普瑞巴林 #愈美 #玉米片 #pr80 #od 出售，欢迎来询问。 https://t.co/6effUaOW0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079696733957926913"
+          ],
+          "media_source_tweet_id": [
+            "2079696743772688836"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079853034147131449",
+        "created_at": "2026-07-22T08:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079853034147131449"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "愈美"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "玉米片"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "pr80"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "od"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756375529513791488",
+              "start": 3,
+              "username": "mTQtZIetsS67719"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6effUaOW0G",
+              "end": 79,
+              "expanded_url": "https://x.com/mTQtZIetsS67719/status/2079696743772688836/photo/1",
+              "media_key": "3_2079696733957926913",
+              "start": 56,
+              "url": "https://t.co/6effUaOW0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079853034147131449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079696743772688836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mTQtZIetsS67719: #普瑞巴林 #愈美 #玉米片 #pr80 #od 出售，欢迎来询问。 https://t.co/6effUaOW0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 326,
+          "like_count": 10995,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T17:52:49.000Z",
+        "description": "出卖我的一切",
+        "id": "1756375529513791488",
+        "name": "出售愈美片（只走闲鱼）",
+        "pinned_tweet_id": "2016216766066630669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079697106470866944/CQ1LAABg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 216,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "mTQtZIetsS67719",
+        "verified": false
+      }
+    ]
+  }
+}

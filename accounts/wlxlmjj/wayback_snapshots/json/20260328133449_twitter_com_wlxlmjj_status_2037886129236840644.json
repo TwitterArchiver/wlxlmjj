@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2037783603170742360",
+    "created_at": "2026-03-28T13:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037886129236840644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704600468864024576",
+          "start": 0,
+          "username": "jiangjiang0725"
+        },
+        {
+          "end": 25,
+          "id": "2008420775204896768",
+          "start": 16,
+          "username": "saki7999"
+        },
+        {
+          "end": 42,
+          "id": "2006428442133397504",
+          "start": 26,
+          "username": "breakcoredoll00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037886129236840644",
+    "in_reply_to_user_id": "1704600468864024576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037885590599778586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangjiang0725 @saki7999 @breakcoredoll00 有可能是嗑药了，之前刷到过一个溜冰的人嘎自己腰子（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2037783603170742360",
+        "created_at": "2026-03-28T13:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037886129236840644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704600468864024576",
+              "start": 0,
+              "username": "jiangjiang0725"
+            },
+            {
+              "end": 25,
+              "id": "2008420775204896768",
+              "start": 16,
+              "username": "saki7999"
+            },
+            {
+              "end": 42,
+              "id": "2006428442133397504",
+              "start": 26,
+              "username": "breakcoredoll00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037886129236840644",
+        "in_reply_to_user_id": "1704600468864024576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037885590599778586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangjiang0725 @saki7999 @breakcoredoll00 有可能是嗑药了，之前刷到过一个溜冰的人嘎自己腰子（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704600468864024576",
+        "conversation_id": "2037783603170742360",
+        "created_at": "2026-03-28T13:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037885590599778586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "saki7999"
+            },
+            {
+              "end": 18,
+              "id": "1894997343088656384",
+              "start": 10,
+              "username": "wlxlmjj"
+            },
+            {
+              "end": 35,
+              "id": "2006428442133397504",
+              "start": 19,
+              "username": "breakcoredoll00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037885590599778586",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037815803442311582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saki7999 @wlxlmjj @breakcoredoll00 哎哟我天 我去刷了一下 太狠了 撕皮啊一下子血喷出来 我也自残过 但下手贼轻 她们这种真的没磕药吗 很好奇 就比如吸了什么东西之类的 没什么痛觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 127,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 427
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T20:56:49.000Z",
+        "description": "一个绝望的老实人",
+        "id": "1704600468864024576",
+        "name": "jiangjiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704600571028848640/dmFKQoX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 185,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "username": "jiangjiang0725",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "眼见喜 耳听怒 鼻嗅爱 舌尝思 意见欲 身本忧",
+        "id": "2008420775204896768",
+        "name": "欢乐颂",
+        "pinned_tweet_id": "2037767666279301143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034230878172598272/CPSfMGBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 502
+        },
+        "username": "saki7999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T18:13:22.000Z",
+        "description": "#shtwt #goretwt TW : sensitive/disturbing content.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "goretwt"
+              }
+            ]
+          }
+        },
+        "id": "2006428442133397504",
+        "location": "NOT MY CONTENT",
+        "name": "⃟",
+        "pinned_tweet_id": "2029487996970688786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036826390449008640/dtOtbZpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 844,
+          "like_count": 399,
+          "listed_count": 18,
+          "media_count": 30,
+          "tweet_count": 149
+        },
+        "username": "breakcoredoll00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076965739572154400",
+    "created_at": "2026-07-14T11:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076987844284104899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026259002813005824",
+          "start": 0,
+          "username": "OHOHOH121121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076987844284104899",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076986455453552684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHOHOH121121 也摸摸你们❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076965739572154400",
+        "created_at": "2026-07-14T11:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076987844284104899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076987844284104899",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076986455453552684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 也摸摸你们❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2076965739572154400",
+        "created_at": "2026-07-14T11:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076986455453552684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076986455453552684",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076965739572154400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 原来是超碎🤔🤔摸摸呱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 269,
+          "like_count": 7073,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 937,
+          "like_count": 6293,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 1669
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

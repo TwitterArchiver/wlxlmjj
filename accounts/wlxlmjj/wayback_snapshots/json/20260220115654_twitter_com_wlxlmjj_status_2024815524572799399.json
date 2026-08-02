@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2024807192168374330",
+    "created_at": "2026-02-20T11:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024815524572799399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        },
+        {
+          "end": 24,
+          "id": "1914766734420279296",
+          "start": 12,
+          "username": "yangtao1729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024815524572799399",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024813739925713266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 @yangtao1729 啊啊啊啊，啊啊啊啊啊啊，啊啊啊啊啊笑死我了。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2024813731394539520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmVXFwa0AAl05E.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2024807192168374330",
+        "created_at": "2026-02-20T11:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024815524572799399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            },
+            {
+              "end": 24,
+              "id": "1914766734420279296",
+              "start": 12,
+              "username": "yangtao1729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024815524572799399",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024813739925713266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 @yangtao1729 啊啊啊啊，啊啊啊啊啊啊，啊啊啊啊啊笑死我了。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024813731394539520"
+          ]
+        },
+        "author_id": "1956544219751063552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024807192168374330",
+        "created_at": "2026-02-20T11:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024813739925713266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914766734420279296",
+              "start": 0,
+              "username": "yangtao1729"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/khU0Kxm0tG",
+              "end": 36,
+              "expanded_url": "https://x.com/wu_si42846/status/2024813739925713266/photo/1",
+              "media_key": "3_2024813731394539520",
+              "start": 13,
+              "url": "https://t.co/khU0Kxm0tG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024813739925713266",
+        "in_reply_to_user_id": "1914766734420279296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024813411222348238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangtao1729 https://t.co/khU0Kxm0tG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 33,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "全天在线的天才末影人🔪- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩- 生活在互联网里！想交朋友！互fo捏/我是低龄糖逼大傻福，实在抱歉！/我是最牛逼的 -12现役国中生/✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "dbdbsjbsja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2024329117580349689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 376,
+          "like_count": 13052,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 4177
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男\n希望你被这个世界爱着\n碎碎念不太会交流\n高强度负能帖。\n变态楠\n我痛得好纯粹又好复杂",
+        "id": "1914766734420279296",
+        "name": "白骑士与刺玫瑰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 113,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1478
+        },
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}

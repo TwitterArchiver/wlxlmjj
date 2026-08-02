@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076699750024519847",
+    "created_at": "2026-07-13T17:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076716312324346304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788839920569872384",
+          "start": 0,
+          "username": "gxioyn276752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076716312324346304",
+    "in_reply_to_user_id": "1788839920569872384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076714991546515714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxioyn276752 有开头就有故事（？）乱七八糟的随便聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076699750024519847",
+        "created_at": "2026-07-13T17:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076716312324346304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788839920569872384",
+              "start": 0,
+              "username": "gxioyn276752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076716312324346304",
+        "in_reply_to_user_id": "1788839920569872384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076714991546515714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxioyn276752 有开头就有故事（？）乱七八糟的随便聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788839920569872384",
+        "conversation_id": "2076699750024519847",
+        "created_at": "2026-07-13T17:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076714991546515714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076714991546515714",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076699750024519847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 我的天，你们都是怎么聊的，社恐完全不知道什么样子的人可以试着搭话也不知道开头说什么。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 251,
+          "like_count": 6386,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T07:54:23.000Z",
+        "description": "“但是哪怕是这样子还是想要被有心的人看见我身边人不为人知的细腻的另一面啊”                      \n\n                    男，非🍥，infp，q2977344354，八字，命理师卦师，塔罗🔮星盘～，欢迎骚扰喵QvQ",
+        "id": "1788839920569872384",
+        "location": "无锡",
+        "name": "祢霖洛拉～（人类观察ing）",
+        "pinned_tweet_id": "2005425812129083428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974709432211886080/XxPel8-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 163,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "gxioyn276752",
+        "verified": false
+      }
+    ]
+  }
+}

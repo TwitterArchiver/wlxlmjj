@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077037507196428542",
+    "created_at": "2026-07-14T17:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077082182997405828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758417088081965056",
+          "start": 0,
+          "username": "zon1746265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077082182997405828",
+    "in_reply_to_user_id": "1758417088081965056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077077467672830395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zon1746265 我靠，感谢子超兄。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077037507196428542",
+        "created_at": "2026-07-14T17:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077082182997405828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758417088081965056",
+              "start": 0,
+              "username": "zon1746265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077082182997405828",
+        "in_reply_to_user_id": "1758417088081965056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077077467672830395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zon1746265 我靠，感谢子超兄。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758417088081965056",
+        "conversation_id": "2077037507196428542",
+        "created_at": "2026-07-14T17:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077077467672830395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077077467672830395",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077037507196428542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 我靠，竟然如此厉害。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 284,
+          "like_count": 7466,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:04:46.000Z",
+        "description": "喜欢我就对我好一点吧\n我只是一个爱分享生活的小女孩",
+        "id": "1758417088081965056",
+        "location": "🚪52（只收口令）",
+        "name": "子超兄",
+        "pinned_tweet_id": "2076670632209883261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073448793782235136/ezrB5Tdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 84,
+          "like_count": 4624,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "zon1746265",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077707416163258839",
+    "created_at": "2026-07-16T16:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077786039146750420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059212406451240960",
+          "start": 0,
+          "username": "Cxq6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077786039146750420",
+    "in_reply_to_user_id": "2059212406451240960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077772452512620754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxq6666 有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077707416163258839",
+        "created_at": "2026-07-16T16:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077786039146750420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077786039146750420",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077772452512620754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2077707416163258839",
+        "created_at": "2026-07-16T15:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077772452512620754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077772452512620754",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077707416163258839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 万达广场附近有人吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 302,
+          "like_count": 8685,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 76,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

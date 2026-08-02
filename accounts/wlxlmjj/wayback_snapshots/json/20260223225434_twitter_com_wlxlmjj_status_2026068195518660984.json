@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2026068195518660984",
+    "created_at": "2026-02-23T22:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T23:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026068195518660984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2025936235693511120",
+          "start": 4,
+          "url": "https://t.co/aIgbS9lxVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026068195518660984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025936235693511120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没绷住 https://t.co/aIgbS9lxVN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2026068195518660984",
+        "created_at": "2026-02-23T22:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T23:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026068195518660984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2025936235693511120",
+              "start": 4,
+              "url": "https://t.co/aIgbS9lxVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026068195518660984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025936235693511120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没绷住 https://t.co/aIgbS9lxVN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2025936235693511120",
+        "created_at": "2026-02-23T14:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025936235693511120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025936235693511120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10810,
+          "like_count": 193,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 36,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 137
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1414,
+          "like_count": 34608,
+          "listed_count": 7,
+          "media_count": 1390,
+          "tweet_count": 10278
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

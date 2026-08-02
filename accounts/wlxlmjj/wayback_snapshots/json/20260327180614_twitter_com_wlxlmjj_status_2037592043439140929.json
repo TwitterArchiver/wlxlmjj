@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2037587460562321726",
+    "created_at": "2026-03-27T18:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037592043439140929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966368367494967301",
+          "start": 0,
+          "username": "grainyrain_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037592043439140929",
+    "in_reply_to_user_id": "1966368367494967301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037591312283902171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grainyrain_awa 谢谢你🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2037587460562321726",
+        "created_at": "2026-03-27T18:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037592043439140929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966368367494967301",
+              "start": 0,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037592043439140929",
+        "in_reply_to_user_id": "1966368367494967301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037591312283902171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grainyrain_awa 谢谢你🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966368367494967301",
+        "conversation_id": "2037587460562321726",
+        "created_at": "2026-03-27T18:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037591312283902171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037591312283902171",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037587460562321726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 唉唉摸摸🥲希望大家都能变得幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 110,
+          "like_count": 2867,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 387
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:09:12.000Z",
+        "description": "自卑阴暗社恐自闭有害废物\n偶尔（经常？）发些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rainygrain_awa",
+                "end": 23,
+                "expanded_url": "https://x.com/rainygrain_awa",
+                "start": 0,
+                "url": "https://t.co/e8Bh2tmDI4"
+              }
+            ]
+          }
+        },
+        "id": "1966368367494967301",
+        "location": "半截入土",
+        "name": "与和☘️",
+        "pinned_tweet_id": "2004700645811781787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966368813232041984/dRxPYic3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 289,
+          "like_count": 29802,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 4578
+        },
+        "url": "https://t.co/e8Bh2tmDI4",
+        "username": "grainyrain_awa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077707197241524621",
+    "created_at": "2026-07-16T10:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077707197241524621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jingqngyng6412…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jingqngyng64121/status/2077674748058956043",
+          "start": 10,
+          "url": "https://t.co/J7RsoVOo6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077707197241524621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077674748058956043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我尼玛真没绷住我靠 https://t.co/J7RsoVOo6o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077674738516914176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNViKqwacAApYyL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077707197241524621",
+        "created_at": "2026-07-16T10:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077707197241524621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingqngyng6412…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jingqngyng64121/status/2077674748058956043",
+              "start": 10,
+              "url": "https://t.co/J7RsoVOo6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077707197241524621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077674748058956043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我尼玛真没绷住我靠 https://t.co/J7RsoVOo6o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077674738516914176"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2077674748058956043",
+        "created_at": "2026-07-16T08:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077674748058956043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/joZJtzGZxl",
+              "end": 34,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2077674748058956043/photo/1",
+              "media_key": "3_2077674738516914176",
+              "start": 11,
+              "url": "https://t.co/joZJtzGZxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077674748058956043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1400,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内的傻逼到底咋了啊 https://t.co/joZJtzGZxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 301,
+          "like_count": 8666,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 422,
+          "like_count": 8165,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

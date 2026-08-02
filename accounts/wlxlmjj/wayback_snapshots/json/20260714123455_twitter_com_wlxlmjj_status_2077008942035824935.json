@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076970671373217924",
+    "created_at": "2026-07-14T12:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077008942035824935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2021958978834685952",
+          "start": 0,
+          "username": "Zzerro77"
+        },
+        {
+          "end": 18,
+          "id": "1928692640356134912",
+          "start": 10,
+          "username": "9way021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077008942035824935",
+    "in_reply_to_user_id": "2021958978834685952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077007582766784605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzerro77 @9way021 钢铁扔罩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076970671373217924",
+        "created_at": "2026-07-14T12:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077008942035824935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021958978834685952",
+              "start": 0,
+              "username": "Zzerro77"
+            },
+            {
+              "end": 18,
+              "id": "1928692640356134912",
+              "start": 10,
+              "username": "9way021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008942035824935",
+        "in_reply_to_user_id": "2021958978834685952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077007582766784605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzerro77 @9way021 钢铁扔罩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021958978834685952",
+        "conversation_id": "2076970671373217924",
+        "created_at": "2026-07-14T12:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077007582766784605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            },
+            {
+              "end": 17,
+              "id": "1928692640356134912",
+              "start": 9,
+              "username": "9way021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077007582766784605",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076970671373217924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj @9way021 别的不说你告诉我不锈钢奶罩到底是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 272,
+          "like_count": 7077,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T14:46:10.000Z",
+        "description": "我觉得你有我就够了呀 =⩌⩊⩌=\n另一个我@Zzzero7777\n07/碎碎念/欢迎过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Zzzero7777"
+              }
+            ]
+          }
+        },
+        "id": "2021958978834685952",
+        "location": "🚪",
+        "name": "魚（重生版）",
+        "pinned_tweet_id": "2076844943671513535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076344568472330240/9GCMsmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 38,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "Zzerro77",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T05:59:07.000Z",
+        "description": "我是vv二代…",
+        "id": "1928692640356134912",
+        "name": "Dennis Nilsen",
+        "pinned_tweet_id": "2076928700629836024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076929194685251585/UIXxFdlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "9way021",
+        "verified": false
+      }
+    ]
+  }
+}

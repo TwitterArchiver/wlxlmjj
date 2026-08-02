@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2024719194869452867",
+    "created_at": "2026-02-20T05:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T06:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024719194869452867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huimu420/statu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/huimu420/status/2024529151991107651",
+          "start": 52,
+          "url": "https://t.co/AmjqVOYs01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024719194869452867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024529151991107651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们可以私信找我玩啊喜欢我可以加我墙内我好想和你们说话为什么没有人找我呢好孤独呀好希望有人主动找我玩。 https://t.co/AmjqVOYs01"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2024719194869452867",
+        "created_at": "2026-02-20T05:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024719194869452867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huimu420/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/huimu420/status/2024529151991107651",
+              "start": 52,
+              "url": "https://t.co/AmjqVOYs01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024719194869452867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024529151991107651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们可以私信找我玩啊喜欢我可以加我墙内我好想和你们说话为什么没有人找我呢好孤独呀好希望有人主动找我玩。 https://t.co/AmjqVOYs01"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2024529151991107651",
+        "created_at": "2026-02-19T16:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024529151991107651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024529151991107651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们可以私信找我玩啊喜欢我可以加我墙内我好想和你们说话为什么没有人找我呢好孤独呀好希望有人主动找我玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 32,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券女 被b自己找原因 fo你是暗恋你\n唯一的恋人是酷拉皮卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu4201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu4201",
+                "start": 0,
+                "url": "https://t.co/oipIneyc33"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "🚪11451454188",
+        "name": "回木",
+        "pinned_tweet_id": "2016510432039571539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 696,
+          "like_count": 26045,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 6147
+        },
+        "url": "https://t.co/oipIneyc33",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

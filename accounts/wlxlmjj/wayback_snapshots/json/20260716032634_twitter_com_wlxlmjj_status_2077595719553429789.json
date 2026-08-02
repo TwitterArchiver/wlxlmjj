@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077585026288587216",
+    "created_at": "2026-07-16T03:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077595719553429789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008420775204896768",
+          "start": 0,
+          "username": "Yuki312813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077595719553429789",
+    "in_reply_to_user_id": "1894997343088656384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077588218233643458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki312813 加我看黄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077585026288587216",
+        "created_at": "2026-07-16T03:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077595719553429789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077595719553429789",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077588218233643458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 加我看黄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077585026288587216",
+        "created_at": "2026-07-16T02:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077588218233643458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077588218233643458",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077587989991997672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 看哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 301,
+          "like_count": 8326,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 112,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2683
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

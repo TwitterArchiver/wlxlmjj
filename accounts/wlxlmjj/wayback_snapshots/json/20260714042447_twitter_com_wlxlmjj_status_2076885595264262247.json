@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076839338353246592",
+    "created_at": "2026-07-14T04:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076885595264262247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2021958978834685952",
+          "start": 0,
+          "username": "Zzerro77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076885595264262247",
+    "in_reply_to_user_id": "2021958978834685952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076839338353246592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzerro77 尼玛的我也是，以前好歹有片姐毒枭发骚扰私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076839338353246592",
+        "created_at": "2026-07-14T04:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076885595264262247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021958978834685952",
+              "start": 0,
+              "username": "Zzerro77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076885595264262247",
+        "in_reply_to_user_id": "2021958978834685952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076839338353246592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzerro77 尼玛的我也是，以前好歹有片姐毒枭发骚扰私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021958978834685952",
+        "conversation_id": "2076839338353246592",
+        "created_at": "2026-07-14T01:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076839338353246592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076839338353246592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流量惨淡到连骚扰私信都没有😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 263,
+          "like_count": 6851,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T14:46:10.000Z",
+        "description": "我觉得你有我就够了呀 =⩌⩊⩌=\n另一个我@Zzzero7777\n07/碎碎念/欢迎过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Zzzero7777"
+              }
+            ]
+          }
+        },
+        "id": "2021958978834685952",
+        "location": "🚪",
+        "name": "魚（重生版）",
+        "pinned_tweet_id": "2076844943671513535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076344568472330240/9GCMsmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 32,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Zzerro77",
+        "verified": false
+      }
+    ]
+  }
+}

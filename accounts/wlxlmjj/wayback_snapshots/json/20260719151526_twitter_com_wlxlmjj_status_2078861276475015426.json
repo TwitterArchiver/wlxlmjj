@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2078804951279816740",
+    "created_at": "2026-07-19T15:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078861276475015426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078861276475015426",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078804951279816740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 卧槽这么多。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078804944707366912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlmFU6bsAA8WOJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2078804951279816740",
+        "created_at": "2026-07-19T15:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078861276475015426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078861276475015426",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078804951279816740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 卧槽这么多。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078804944707366912"
+          ]
+        },
+        "author_id": "1860377535215013888",
+        "conversation_id": "2078804951279816740",
+        "created_at": "2026-07-19T11:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078804951279816740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zMHWfcDA3",
+              "end": 32,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2078804951279816740/photo/1",
+              "media_key": "3_2078804944707366912",
+              "start": 9,
+              "url": "https://t.co/6zMHWfcDA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078804951279816740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的日处方量… https://t.co/6zMHWfcDA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 317,
+          "like_count": 9786,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "ENTP｜keep honored\n称呼随意什麼都行 Arai/kilo\n｜生理女心理女^欢迎聊天^互關大歡迎｜\n-\n双手合十的时候，第一个听到祈祷的人是自己。",
+        "id": "1860377535215013888",
+        "location": "Singapore",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2067894008056267105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 224,
+          "like_count": 2061,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 844
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true
+      }
+    ]
+  }
+}

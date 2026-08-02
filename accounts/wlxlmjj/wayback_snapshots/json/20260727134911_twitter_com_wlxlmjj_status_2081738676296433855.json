@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2081738676296433855",
+    "created_at": "2026-07-27T13:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081738676296433855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pr80net/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/pr80net/status/2081420359883215331",
+          "start": 8,
+          "url": "https://t.co/MrCgBrCFAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081738676296433855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081420359883215331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我求你了。。。 https://t.co/MrCgBrCFAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081420095654608896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKwjJXaQAA9yNU.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2081738676296433855",
+        "created_at": "2026-07-27T13:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081738676296433855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pr80net/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/pr80net/status/2081420359883215331",
+              "start": 8,
+              "url": "https://t.co/MrCgBrCFAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081738676296433855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081420359883215331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我求你了。。。 https://t.co/MrCgBrCFAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420095654608896"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081420359883215331",
+        "created_at": "2026-07-26T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081420359883215331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXdrFCB3JN",
+              "end": 82,
+              "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+              "media_key": "3_2081420095654608896",
+              "start": 59,
+              "url": "https://t.co/ZXdrFCB3JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081420359883215331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 14017,
+          "like_count": 167,
+          "quote_count": 26,
+          "reply_count": 55,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 334,
+          "like_count": 11465,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 378,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

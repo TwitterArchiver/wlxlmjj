@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2074920954615210380",
+    "created_at": "2026-07-09T02:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075044414586794354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059212406451240960",
+          "start": 0,
+          "username": "Cxq6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075044414586794354",
+    "in_reply_to_user_id": "2059212406451240960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074920954615210380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxq6666 爱一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2074920954615210380",
+        "created_at": "2026-07-09T02:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075044414586794354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075044414586794354",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074920954615210380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 爱一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2074920954615210380",
+        "created_at": "2026-07-08T18:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074920954615210380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074920954615210380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人爱我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 225,
+          "like_count": 5304,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 63,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2025871346320965770",
+    "created_at": "2026-02-23T10:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025874049667375497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711065980959698944",
+          "start": 0,
+          "username": "gngcichfny25600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025874049667375497",
+    "in_reply_to_user_id": "1711065980959698944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025871346320965770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gngcichfny25600 我来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2025871346320965770",
+        "created_at": "2026-02-23T10:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025874049667375497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711065980959698944",
+              "start": 0,
+              "username": "gngcichfny25600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874049667375497",
+        "in_reply_to_user_id": "1711065980959698944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025871346320965770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gngcichfny25600 我来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711065980959698944",
+        "conversation_id": "2025871346320965770",
+        "created_at": "2026-02-23T09:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025871346320965770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025871346320965770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找🚪真的是流量密码吗，那我可真得找找了，求门姐，皮下男可，只要陪我聊天就给钱，不要因为你是骗子而拉黑我，我会很伤心的。说话恶心的滚 Ծ‸Ծ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 36,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 131
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T17:08:37.000Z",
+        "description": "被分割开的天空 潮湿不堪的水泥地 零散的垃圾 不合时宜的雨\n在无人理会的地方，我死去了。",
+        "id": "1711065980959698944",
+        "location": "距离你1.8公里",
+        "name": "在无人理会的地方我死去了（互fo",
+        "pinned_tweet_id": "2025225294710522174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016158814202990593/OOhHmG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 1482,
+          "like_count": 8320,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 2152
+        },
+        "username": "gngcichfny25600",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077090378285719785",
+    "created_at": "2026-07-14T17:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077090378285719785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyemeizit/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xiaoyemeizit/status/2076893327891587547",
+          "start": 9,
+          "url": "https://t.co/cnYxQl2hG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077090378285719785",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076893327891587547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。？。？。？ https://t.co/cnYxQl2hG1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_2076893319058382848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKbeEbbYAAzuy_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077090378285719785",
+        "created_at": "2026-07-14T17:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077090378285719785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyemeizit/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xiaoyemeizit/status/2076893327891587547",
+              "start": 9,
+              "url": "https://t.co/cnYxQl2hG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077090378285719785",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076893327891587547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。？。？。？ https://t.co/cnYxQl2hG1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076893319058382848"
+          ]
+        },
+        "author_id": "1613037878262792193",
+        "conversation_id": "2076893327891587547",
+        "created_at": "2026-07-14T04:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076893327891587547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6LNn3KNiFN",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoyemeizit/status/2076893327891587547/photo/1",
+              "media_key": "3_2076893319058382848",
+              "start": 13,
+              "url": "https://t.co/6LNn3KNiFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076893327891587547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 183856,
+          "like_count": 854,
+          "quote_count": 5,
+          "reply_count": 293,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这未免有点过于奇葩了吧。 https://t.co/6LNn3KNiFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 284,
+          "like_count": 7614,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T05:01:39.000Z",
+        "description": "空白选手 /职场吐槽 |/偶尔幻想成为大V/分享身边真实事/社会热点/金融小白成长记",
+        "id": "1613037878262792193",
+        "name": "xiaoyeqin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071217325337096192/oZ1KX3J8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 2627,
+          "like_count": 6799,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 7056
+        },
+        "url": "",
+        "username": "xiaoyemeizit",
+        "verified": true
+      }
+    ]
+  }
+}

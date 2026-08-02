@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2050852633402052633",
+    "created_at": "2026-05-03T10:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050881114848555109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021200224388341760",
+          "start": 0,
+          "username": "XF_shiho_mafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050881114848555109",
+    "in_reply_to_user_id": "2021200224388341760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050852633402052633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XF_shiho_mafuyu 我靠好价"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050852633402052633].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050852633402052633",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050852633402052633"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2050852633402052633",
+        "created_at": "2026-05-03T10:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050881114848555109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "XF_shiho_mafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050881114848555109",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050852633402052633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XF_shiho_mafuyu 我靠好价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 183,
+          "like_count": 3322,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 567
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风\n本人已死。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/KBZkmqk4f4"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 202,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/KBZkmqk4f4",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077004961670643770",
+    "created_at": "2026-07-17T20:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T21:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078214159678968236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026259002813005824",
+          "start": 0,
+          "username": "OHOHOH121121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078214159678968236",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078189166593278036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHOHOH121121 原来如此啊我懂了，感谢科普！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077004961670643770",
+        "created_at": "2026-07-17T20:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078214159678968236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078214159678968236",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078189166593278036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 原来如此啊我懂了，感谢科普！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2077004961670643770",
+        "created_at": "2026-07-17T18:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078189166593278036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078189166593278036",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077004961670643770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 解离这东西目前没有药物可以治疗，除了心理治疗就真的没有其他办法了。因为药物可以稳定大脑的神经质，但是解离不同，这东西是保护机制来的，不在药物的管辖范围内。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 307,
+          "like_count": 9170,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 963,
+          "like_count": 6728,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

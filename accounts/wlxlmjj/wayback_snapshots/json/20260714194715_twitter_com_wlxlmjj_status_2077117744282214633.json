@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077087973892587784",
+    "created_at": "2026-07-14T19:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077117744282214633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053188363566391296",
+          "start": 0,
+          "username": "ayahuasca8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077117744282214633",
+    "in_reply_to_user_id": "2053188363566391296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077117159655006289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayahuasca8964 卧槽我太感动了老大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077087973892587784",
+        "created_at": "2026-07-14T19:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077117744282214633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053188363566391296",
+              "start": 0,
+              "username": "ayahuasca8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077117744282214633",
+        "in_reply_to_user_id": "2053188363566391296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077117159655006289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayahuasca8964 卧槽我太感动了老大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2077087973892587784",
+        "created_at": "2026-07-14T19:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077117159655006289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077117159655006289",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077087973892587784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 哎呦我操你oc太色了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 286,
+          "like_count": 7743,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Aya",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069508917999353856/8ij5Dnh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 36,
+          "like_count": 8589,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "ayahuasca8964",
+        "verified": false
+      }
+    ]
+  }
+}

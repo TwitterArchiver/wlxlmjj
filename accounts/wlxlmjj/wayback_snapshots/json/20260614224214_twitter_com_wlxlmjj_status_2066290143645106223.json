@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2066239074328011066",
+    "created_at": "2026-06-14T22:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066290143645106223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001670790669058048",
+          "start": 0,
+          "username": "Min1440r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066290143645106223",
+    "in_reply_to_user_id": "2001670790669058048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066239074328011066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Min1440r 你在我心里很重要哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_2066239066916679680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzBe-SacAAwMM0.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2066239074328011066",
+        "created_at": "2026-06-14T22:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066290143645106223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001670790669058048",
+              "start": 0,
+              "username": "Min1440r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066290143645106223",
+        "in_reply_to_user_id": "2001670790669058048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066239074328011066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Min1440r 你在我心里很重要哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066239066916679680"
+          ]
+        },
+        "author_id": "2001670790669058048",
+        "conversation_id": "2066239074328011066",
+        "created_at": "2026-06-14T19:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066239074328011066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpIOFJ0W7W",
+              "end": 28,
+              "expanded_url": "https://x.com/Min1440r/status/2066239074328011066/photo/1",
+              "media_key": "3_2066239066916679680",
+              "start": 5,
+              "url": "https://t.co/gpIOFJ0W7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066239074328011066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/gpIOFJ0W7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 179,
+          "like_count": 3470,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 602
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:08:12.000Z",
+        "description": "NGL提问：https://t.co/9e5mRIkpE5 （几乎废弃）负能里推：@Stressmaxp加我q好嘛可能会注销 。💕@wlxlmjj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Stressmaxp"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "wlxlmjj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/min1440r",
+                "end": 29,
+                "expanded_url": "https://ngl.link/min1440r",
+                "start": 6,
+                "url": "https://t.co/9e5mRIkpE5"
+              }
+            ]
+          }
+        },
+        "id": "2001670790669058048",
+        "location": "江苏省苏州市长江路55号",
+        "name": "1440r/min",
+        "pinned_tweet_id": "2024210469960253930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671000900210688/tRq7Bkqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 72,
+          "like_count": 2846,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1720
+        },
+        "username": "Min1440r",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2025480956950556994",
+    "created_at": "2026-02-22T08:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025480956950556994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yu120160/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yu120160/status/2025479995251195988",
+          "start": 7,
+          "url": "https://t.co/OOMMD8QTo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025480956950556994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025479995251195988",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊。 https://t.co/OOMMD8QTo0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2025480956950556994",
+        "created_at": "2026-02-22T08:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025480956950556994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yu120160/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yu120160/status/2025479995251195988",
+              "start": 7,
+              "url": "https://t.co/OOMMD8QTo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025480956950556994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025479995251195988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊。 https://t.co/OOMMD8QTo0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854926783369691139",
+        "conversation_id": "2025479995251195988",
+        "created_at": "2026-02-22T07:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025479995251195988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025479995251195988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友就像路边的哈基米，想了摸两下，不想了晾一边，也不会主动打扰你，只会找个没人的角落孤独死掉，冬天过去又会冒出来新的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 33,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 119
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:40:16.000Z",
+        "description": "𐙚 ‧₊˚ ⋅ ✝︎少女祈祷中✝︎ ‧₊˚ ⋅  𐙚                                                                              OD💊需要互fo可以戳戳w        收到打赏会很开心^_^",
+        "id": "1854926783369691139",
+        "location": "空无一人之地",
+        "name": "xx酱",
+        "pinned_tweet_id": "2005883968294727701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009278964519620608/WYgtGhNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 130,
+          "like_count": 694,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 430
+        },
+        "username": "yu120160",
+        "verified": false
+      }
+    ]
+  }
+}

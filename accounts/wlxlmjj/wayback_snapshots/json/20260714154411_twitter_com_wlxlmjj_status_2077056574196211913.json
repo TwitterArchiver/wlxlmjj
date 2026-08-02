@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077047055361728512"
+      ],
+      "media_source_tweet_id": [
+        "2077047057752510915"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077056574196211913",
+    "created_at": "2026-07-14T15:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077056574196211913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045075693231325184",
+          "start": 3,
+          "username": "LeeSong14176"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulHhAMIx5W",
+          "end": 82,
+          "expanded_url": "https://x.com/LeeSong14176/status/2077047057752510915/photo/1",
+          "media_key": "3_2077047055361728512",
+          "start": 59,
+          "url": "https://t.co/ulHhAMIx5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077056574196211913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077047057752510915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeeSong14176: 我是cafe114，大号被奸人所害封七天，不知道号能不能回来😭😭😭先转生到小号了 https://t.co/ulHhAMIx5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077047055361728512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMnSsybYAA_BR_.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077047055361728512"
+          ],
+          "media_source_tweet_id": [
+            "2077047057752510915"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077056574196211913",
+        "created_at": "2026-07-14T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077056574196211913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045075693231325184",
+              "start": 3,
+              "username": "LeeSong14176"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulHhAMIx5W",
+              "end": 82,
+              "expanded_url": "https://x.com/LeeSong14176/status/2077047057752510915/photo/1",
+              "media_key": "3_2077047055361728512",
+              "start": 59,
+              "url": "https://t.co/ulHhAMIx5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077056574196211913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077047057752510915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeeSong14176: 我是cafe114，大号被奸人所害封七天，不知道号能不能回来😭😭😭先转生到小号了 https://t.co/ulHhAMIx5W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077047055361728512"
+          ]
+        },
+        "author_id": "2045075693231325184",
+        "conversation_id": "2077047057752510915",
+        "created_at": "2026-07-14T15:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077047057752510915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulHhAMIx5W",
+              "end": 64,
+              "expanded_url": "https://x.com/LeeSong14176/status/2077047057752510915/photo/1",
+              "media_key": "3_2077047055361728512",
+              "start": 41,
+              "url": "https://t.co/ulHhAMIx5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077047057752510915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是cafe114，大号被奸人所害封七天，不知道号能不能回来😭😭😭先转生到小号了 https://t.co/ulHhAMIx5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 282,
+          "like_count": 7355,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T09:43:45.000Z",
+        "description": "之之小号🐖🐖\n@zhiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "zhiii_tan"
+              }
+            ]
+          }
+        },
+        "id": "2045075693231325184",
+        "location": "cafe114心里",
+        "name": "room818",
+        "pinned_tweet_id": "2077047057752510915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063574993687154688/R3LQGssM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 28,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "LeeSong14176",
+        "verified": false
+      }
+    ]
+  }
+}

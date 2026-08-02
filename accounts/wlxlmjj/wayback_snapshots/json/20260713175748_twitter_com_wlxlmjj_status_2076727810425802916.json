@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076725499431096728",
+    "created_at": "2026-07-13T17:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076727810425802916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076213440448770048",
+          "start": 0,
+          "username": "fongkhalilb1nv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076727810425802916",
+    "in_reply_to_user_id": "2076213440448770048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076725499431096728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fongkhalilb1nv 支付宝口令红包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076725499431096728",
+        "created_at": "2026-07-13T17:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076727810425802916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076213440448770048",
+              "start": 0,
+              "username": "fongkhalilb1nv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076727810425802916",
+        "in_reply_to_user_id": "2076213440448770048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076725499431096728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fongkhalilb1nv 支付宝口令红包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076213440448770048",
+        "conversation_id": "2076725499431096728",
+        "created_at": "2026-07-13T17:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076725499431096728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076725499431096728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推刷着刷着突然有个疑问，入门只回口令，这个口令是什么意思，假如我想入门但是我又不知道口令咋办，好奇怪啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 253,
+          "like_count": 6473,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T07:54:43.000Z",
+        "description": "trying to be better！",
+        "id": "2076213440448770048",
+        "location": "家里",
+        "name": "神秘奇男子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076213953051475969/nfXHadn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "fongkhalilb1nv",
+        "verified": false
+      }
+    ]
+  }
+}

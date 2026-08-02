@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2078084180865663243",
+    "created_at": "2026-07-17T13:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078104228112080996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024195400442531841",
+          "start": 0,
+          "username": "Xjiajiaouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078104228112080996",
+    "in_reply_to_user_id": "2024195400442531841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078087954858496347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xjiajiaouo 我变成了一只鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2078084180865663243",
+        "created_at": "2026-07-17T13:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078104228112080996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024195400442531841",
+              "start": 0,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078104228112080996",
+        "in_reply_to_user_id": "2024195400442531841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078087954858496347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xjiajiaouo 我变成了一只鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2078084180865663243",
+        "created_at": "2026-07-17T12:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078087954858496347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078087954858496347",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078084180865663243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 🐔？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 307,
+          "like_count": 9034,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "血痂\n💊🔪🚬🩸\n我想发什么发什么，左右脑互搏是日常",
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2067493808552702155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 527,
+          "like_count": 18080,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 4551
+        },
+        "url": "",
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

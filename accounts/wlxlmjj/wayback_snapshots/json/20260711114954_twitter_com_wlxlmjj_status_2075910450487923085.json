@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2075843186812195072",
+    "created_at": "2026-07-11T11:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075910450487923085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746818545630195713",
+          "start": 0,
+          "username": "Anxious_K1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075910450487923085",
+    "in_reply_to_user_id": "1746818545630195713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075843186812195072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anxious_K1n 笑拥了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075843171809206273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7gXdEboAElhv0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2075843186812195072",
+        "created_at": "2026-07-11T11:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075910450487923085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746818545630195713",
+              "start": 0,
+              "username": "Anxious_K1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075910450487923085",
+        "in_reply_to_user_id": "1746818545630195713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075843186812195072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anxious_K1n 笑拥了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075843171809206273"
+          ]
+        },
+        "author_id": "1746818545630195713",
+        "conversation_id": "2075843186812195072",
+        "created_at": "2026-07-11T07:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075843186812195072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yF6igTCyLO",
+              "end": 38,
+              "expanded_url": "https://x.com/Anxious_K1n/status/2075843186812195072/photo/1",
+              "media_key": "3_2075843171809206273",
+              "start": 15,
+              "url": "https://t.co/yF6igTCyLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075843186812195072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快动动你萎缩的小脑思考一下吧 https://t.co/yF6igTCyLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 230,
+          "like_count": 5541,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T08:56:41.000Z",
+        "description": "你能看到的也只有腐烂的过程\n⚠️智力有问题/精分/双相/ODER/自残/烟鬼/酗酒/Brat/A股知名韭菜/玻璃心/欢迎私信/熟悉之后可以加墙内联系方式/请称呼我文文or小卡\n如果能忍受我不定期发疯可以和我交朋友\n别骂我别骂我别骂我，我要是说错话请直接告诉我\n这里是我的垃圾桶，如果有冒犯到你我很抱歉",
+        "id": "1746818545630195713",
+        "location": "Mercury",
+        "name": "Kasumi",
+        "pinned_tweet_id": "2063533744276038085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077789306793984/OF_vhTdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 211,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "Anxious_K1n",
+        "verified": false
+      }
+    ]
+  }
+}

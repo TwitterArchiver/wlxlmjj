@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028311257238175744",
+        "3_2028311257305272321",
+        "3_2028311257154191360"
+      ],
+      "media_source_tweet_id": [
+        "2028311269800038636",
+        "2028311269800038636",
+        "2028311269800038636"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "conversation_id": "2028323792473501762",
+    "created_at": "2026-03-02T04:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028323792473501762"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "线下"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "门槛"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "金主"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "bbw"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "母狗"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "山东"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001126017923211265",
+          "start": 3,
+          "username": "prb520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/teznX42REd",
+          "end": 112,
+          "expanded_url": "https://x.com/prb520/status/2028311269800038636/photo/1",
+          "media_key": "3_2028311257238175744",
+          "start": 89,
+          "url": "https://t.co/teznX42REd"
+        },
+        {
+          "display_url": "pic.x.com/teznX42REd",
+          "end": 112,
+          "expanded_url": "https://x.com/prb520/status/2028311269800038636/photo/1",
+          "media_key": "3_2028311257305272321",
+          "start": 89,
+          "url": "https://t.co/teznX42REd"
+        },
+        {
+          "display_url": "pic.x.com/teznX42REd",
+          "end": 112,
+          "expanded_url": "https://x.com/prb520/status/2028311269800038636/photo/1",
+          "media_key": "3_2028311257154191360",
+          "start": 89,
+          "url": "https://t.co/teznX42REd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028323792473501762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028311269800038636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prb520: 置顶求互转\n小怡\n#爸爸活 #妈妈活 #线下 #门槛妹 #门槛 #门槛姐 #金主 #bbw #母狗 #山东 \n有门禁不过夜过888送一次纯绿不岀市不出者 https://t.co/teznX42REd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028323792473501762].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028323792473501762",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028323792473501762"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028311257238175744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYCV42bgAAS7HT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 391,
+        "media_key": "3_2028311257305272321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYCV5GbUAE-er4.jpg",
+        "width": 751
+      },
+      {
+        "height": 619,
+        "media_key": "3_2028311257154191360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYCV4iaAAAuYIK.jpg",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028311257238175744",
+            "3_2028311257305272321",
+            "3_2028311257154191360"
+          ]
+        },
+        "author_id": "2001126017923211265",
+        "conversation_id": "2028311269800038636",
+        "created_at": "2026-03-02T03:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028311269800038636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "线下"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "门槛"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "金主"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "bbw"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "母狗"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "山东"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/teznX42REd",
+              "end": 100,
+              "expanded_url": "https://x.com/prb520/status/2028311269800038636/photo/1",
+              "media_key": "3_2028311257238175744",
+              "start": 77,
+              "url": "https://t.co/teznX42REd"
+            },
+            {
+              "display_url": "pic.x.com/teznX42REd",
+              "end": 100,
+              "expanded_url": "https://x.com/prb520/status/2028311269800038636/photo/1",
+              "media_key": "3_2028311257305272321",
+              "start": 77,
+              "url": "https://t.co/teznX42REd"
+            },
+            {
+              "display_url": "pic.x.com/teznX42REd",
+              "end": 100,
+              "expanded_url": "https://x.com/prb520/status/2028311269800038636/photo/1",
+              "media_key": "3_2028311257154191360",
+              "start": 77,
+              "url": "https://t.co/teznX42REd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028311269800038636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "置顶求互转\n小怡\n#爸爸活 #妈妈活 #线下 #门槛妹 #门槛 #门槛姐 #金主 #bbw #母狗 #山东 \n有门禁不过夜过888送一次纯绿不岀市不出者 https://t.co/teznX42REd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 48,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 171
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T03:03:27.000Z",
+        "description": "od/自伤/互联网蛆虫阳光爬行中",
+        "id": "2001126017923211265",
+        "name": "如痛刺痣",
+        "pinned_tweet_id": "2028104849083318578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025833390528966656/XKSgR4tO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 35,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 168
+        },
+        "username": "prb520",
+        "verified": false
+      }
+    ]
+  }
+}

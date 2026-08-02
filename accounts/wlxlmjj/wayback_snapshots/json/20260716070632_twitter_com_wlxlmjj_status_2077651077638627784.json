@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077612603103461686",
+    "created_at": "2026-07-16T07:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077651077638627784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850329593728917504",
+          "start": 0,
+          "username": "Tristesse_demer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077651077638627784",
+    "in_reply_to_user_id": "1850329593728917504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077619147161342440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tristesse_demer 茄子啊啊啊\n乱打的（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077612603103461686",
+        "created_at": "2026-07-16T07:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077651077638627784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850329593728917504",
+              "start": 0,
+              "username": "Tristesse_demer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077651077638627784",
+        "in_reply_to_user_id": "1850329593728917504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077619147161342440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tristesse_demer 茄子啊啊啊\n乱打的（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2077612603103461686",
+        "created_at": "2026-07-16T04:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077619147161342440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077619147161342440",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077612603103461686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 12 29🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 299,
+          "like_count": 8478,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "可以叫我小池🚪88（歡迎隨意打賞w）憂鬱逼 酗酒逼 嗑藥逼 很溫良 非國人約的別找我 看完主頁一般都回",
+        "id": "1850329593728917504",
+        "location": "London, England",
+        "name": "Douleur",
+        "pinned_tweet_id": "2077564240681202072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076953843062222848/4jevFyqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 288,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "Tristesse_demer",
+        "verified": false
+      }
+    ]
+  }
+}

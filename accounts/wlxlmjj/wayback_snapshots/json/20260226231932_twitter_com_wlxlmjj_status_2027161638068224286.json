@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2027155444406612117",
+    "created_at": "2026-02-26T23:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T00:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027161638068224286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1930331975803645952",
+          "start": 0,
+          "username": "ming_ri89295"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027161638068224286",
+    "in_reply_to_user_id": "1930331975803645952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027155444406612117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_ri89295 我擦太萌了这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027155429965574145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHnH4uaMAEP4I4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2027155444406612117",
+        "created_at": "2026-02-26T23:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027161638068224286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1930331975803645952",
+              "start": 0,
+              "username": "ming_ri89295"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027161638068224286",
+        "in_reply_to_user_id": "1930331975803645952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027155444406612117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_ri89295 我擦太萌了这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027155429965574145"
+          ]
+        },
+        "author_id": "1930331975803645952",
+        "conversation_id": "2027155444406612117",
+        "created_at": "2026-02-26T22:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T23:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027155444406612117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUwCaCgli8",
+              "end": 173,
+              "expanded_url": "https://x.com/ming_ri89295/status/2027155444406612117/photo/1",
+              "media_key": "3_2027155429965574145",
+              "start": 150,
+              "url": "https://t.co/MUwCaCgli8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027155444406612117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "堵桥来 坝顶狙来 堵撤离点来 夺舍来 堵闸来 打最后一队来 炸撤离点来 跑刀来 背刺来（背刺队友也是背刺  绝密双子星来 盾盾奶来 航天猛攻来 曼德尔砖来 花来 浮力水鬼来 双威龙跑刀来 女鬼流来 堵博士来 扰民来 老贝榨来 乞讨来 张姐撕咬来 堵飞鼠来 堵丢包来 堵飞升来 堵勇敢者来 堵中控桥来 https://t.co/MUwCaCgli8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 44,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 171
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T18:33:41.000Z",
+        "description": "就是那样，我们不要吵架ok ？放下手中的屠刀，少年立刻停嗑药，佛在救你，行吗，就是那样，我气的全身在流血。行吗？",
+        "id": "1930331975803645952",
+        "name": "束縛愛",
+        "pinned_tweet_id": "2025840780259271006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022760509330915328/VHfHVl1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 76,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 207
+        },
+        "username": "ming_ri89295",
+        "verified": false
+      }
+    ]
+  }
+}

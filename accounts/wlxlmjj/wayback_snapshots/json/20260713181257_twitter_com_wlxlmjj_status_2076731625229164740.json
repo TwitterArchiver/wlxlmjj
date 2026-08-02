@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2076726578051248271",
+    "created_at": "2026-07-13T18:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076731625229164740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510099512034922497",
+          "start": 0,
+          "username": "CCskadoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076731625229164740",
+    "in_reply_to_user_id": "1510099512034922497",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076730458029892062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCskadoodle OMG！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2076726578051248271",
+        "created_at": "2026-07-13T18:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076731625229164740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510099512034922497",
+              "start": 0,
+              "username": "CCskadoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076731625229164740",
+        "in_reply_to_user_id": "1510099512034922497",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076730458029892062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCskadoodle OMG！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510099512034922497",
+        "conversation_id": "2076726578051248271",
+        "created_at": "2026-07-13T18:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076730458029892062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076730458029892062",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076726578051248271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj I'm in😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 254,
+          "like_count": 6509,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T03:39:26.000Z",
+        "description": "Type Moon大好き！\n最喜欢👁️👁️别人，还有型月一切相关❤️\nGameplay best love 基本上什么类型都玩，galgame也很喜欢，还有科幻小说…\nFGO or anything😊\n❤️❤️Love from Kohaku❤️❤️💊\nBTW May the force be with u！",
+        "id": "1510099512034922497",
+        "location": "迦蓝之堂",
+        "name": "C.C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075596255309496320/nC-CoIsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 219,
+          "like_count": 2131,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "CCskadoodle",
+        "verified": true
+      }
+    ]
+  }
+}

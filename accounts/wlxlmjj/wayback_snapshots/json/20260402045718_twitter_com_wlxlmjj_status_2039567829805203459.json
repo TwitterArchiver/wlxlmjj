@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2039536458500116772",
+    "created_at": "2026-04-02T04:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039567829805203459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824037197210898432",
+          "start": 0,
+          "username": "ivan23389"
+        },
+        {
+          "end": 21,
+          "id": "1965457223636975617",
+          "start": 11,
+          "username": "Thymol_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039567829805203459",
+    "in_reply_to_user_id": "1824037197210898432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039567338543214918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivan23389 @Thymol_11 支线：我是xxx求过门我没钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2039536458500116772",
+        "created_at": "2026-04-02T04:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039567829805203459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824037197210898432",
+              "start": 0,
+              "username": "ivan23389"
+            },
+            {
+              "end": 21,
+              "id": "1965457223636975617",
+              "start": 11,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039567829805203459",
+        "in_reply_to_user_id": "1824037197210898432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039567338543214918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan23389 @Thymol_11 支线：我是xxx求过门我没钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824037197210898432",
+        "conversation_id": "2039536458500116772",
+        "created_at": "2026-04-02T04:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039567338543214918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            },
+            {
+              "end": 19,
+              "id": "1965457223636975617",
+              "start": 9,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039567338543214918",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039536458500116772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj @Thymol_11 🥲😡\n支线：\n好想死啊\n吃xx药紫砂\n救回来了\n进ICU和精卫\n出院\n继续o\n受挫\n好想死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|多重人格DID解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中|男朋友@Min1440r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Min1440r"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2037200828793311455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 156,
+          "like_count": 3173,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 492
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:55:45.000Z",
+        "description": "高一/09男/希望明天可以意外死亡/前oder/重度抑郁/精神病：泛性恋/2009/11/22/🩵@yitai_841",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "yitai_841"
+              }
+            ]
+          }
+        },
+        "id": "1824037197210898432",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Tomorin_燈",
+        "pinned_tweet_id": "2024761239591932129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 315,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 432
+        },
+        "username": "ivan23389",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 463,
+          "like_count": 4248,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

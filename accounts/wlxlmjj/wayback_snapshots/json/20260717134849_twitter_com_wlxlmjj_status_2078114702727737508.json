@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2078084180865663243",
+    "created_at": "2026-07-17T13:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078114702727737508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823160336691982336",
+          "start": 0,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078114702727737508",
+    "in_reply_to_user_id": "1823160336691982336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078114116808671421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hozheganma 拒绝欧迪从我做起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2078084180865663243",
+        "created_at": "2026-07-17T13:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078114702727737508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823160336691982336",
+              "start": 0,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078114702727737508",
+        "in_reply_to_user_id": "1823160336691982336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078114116808671421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hozheganma 拒绝欧迪从我做起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823160336691982336",
+        "conversation_id": "2078084180865663243",
+        "created_at": "2026-07-17T13:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078114116808671421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078114116808671421",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078084180865663243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 不吃，谢谢。👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 307,
+          "like_count": 9091,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "废物高三牲畜…/昏迷于白天，活跃于夜间/重度游戏🎮中../oder🚬/自伤/友跨/存在二象形/同类互fo（若没及时回sorry😿）/\n银叶红丝，压片与胶囊散落",
+        "id": "1823160336691982336",
+        "location": "Plateau F-1",
+        "name": "沫依#Ng♓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 418,
+          "like_count": 2076,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

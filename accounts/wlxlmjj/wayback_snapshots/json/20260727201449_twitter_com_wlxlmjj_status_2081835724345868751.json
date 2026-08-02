@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2081556359708024872",
+    "created_at": "2026-07-27T20:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081835724345868751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902888249653334016",
+          "start": 0,
+          "username": "Misak1Kusanagi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081835724345868751",
+    "in_reply_to_user_id": "1902888249653334016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081769788989436137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misak1Kusanagi1 好的呀。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2081556359708024872",
+        "created_at": "2026-07-27T20:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081835724345868751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902888249653334016",
+              "start": 0,
+              "username": "Misak1Kusanagi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081835724345868751",
+        "in_reply_to_user_id": "1902888249653334016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081769788989436137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misak1Kusanagi1 好的呀。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902888249653334016",
+        "conversation_id": "2081556359708024872",
+        "created_at": "2026-07-27T15:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081769788989436137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081769788989436137",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081556359708024872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 好好休息呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 333,
+          "like_count": 11471,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-21T01:02:03.000Z",
+        "description": "这里是pomelo 可以叫我柚子/♂/负能/欢迎扩/4i/重郁重焦/08高三/mai舟崩什么的都沾一点",
+        "id": "1902888249653334016",
+        "name": "pomelo",
+        "pinned_tweet_id": "2070945673294598445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587225020301312/9qykg60z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 331,
+          "like_count": 3829,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "Misak1Kusanagi1",
+        "verified": false
+      }
+    ]
+  }
+}

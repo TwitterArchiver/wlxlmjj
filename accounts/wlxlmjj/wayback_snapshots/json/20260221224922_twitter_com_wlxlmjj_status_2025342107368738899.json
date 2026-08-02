@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2025260320810487970",
+    "created_at": "2026-02-21T22:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T23:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025342107368738899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001670790669058048",
+          "start": 0,
+          "username": "Min1440r"
+        },
+        {
+          "end": 21,
+          "id": "1904239490132246528",
+          "start": 10,
+          "username": "fb_tx71061"
+        },
+        {
+          "end": 34,
+          "id": "1822949088494850048",
+          "start": 22,
+          "username": "thewishpool"
+        },
+        {
+          "end": 42,
+          "id": "1634598602126540800",
+          "start": 35,
+          "username": "234qaq"
+        },
+        {
+          "end": 59,
+          "id": "1987868389709422593",
+          "start": 43,
+          "username": "ruki52621534059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025342107368738899",
+    "in_reply_to_user_id": "2001670790669058048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025260320810487970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Min1440r @fb_tx71061 @thewishpool @234qaq @ruki52621534059 笑死我了孩子啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2025260318096809984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsrh23a4AAMg31.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2025260320810487970",
+        "created_at": "2026-02-21T22:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T23:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025342107368738899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001670790669058048",
+              "start": 0,
+              "username": "Min1440r"
+            },
+            {
+              "end": 21,
+              "id": "1904239490132246528",
+              "start": 10,
+              "username": "fb_tx71061"
+            },
+            {
+              "end": 34,
+              "id": "1822949088494850048",
+              "start": 22,
+              "username": "thewishpool"
+            },
+            {
+              "end": 42,
+              "id": "1634598602126540800",
+              "start": 35,
+              "username": "234qaq"
+            },
+            {
+              "end": 59,
+              "id": "1987868389709422593",
+              "start": 43,
+              "username": "ruki52621534059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025342107368738899",
+        "in_reply_to_user_id": "2001670790669058048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025260320810487970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Min1440r @fb_tx71061 @thewishpool @234qaq @ruki52621534059 笑死我了孩子啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025260318096809984"
+          ]
+        },
+        "author_id": "2001670790669058048",
+        "conversation_id": "2025260320810487970",
+        "created_at": "2026-02-21T17:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025260320810487970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1904239490132246528",
+              "start": 22,
+              "username": "fb_tx71061"
+            },
+            {
+              "end": 46,
+              "id": "1822949088494850048",
+              "start": 34,
+              "username": "thewishpool"
+            },
+            {
+              "end": 60,
+              "id": "1634598602126540800",
+              "start": 53,
+              "username": "234qaq"
+            },
+            {
+              "end": 75,
+              "id": "1894997343088656384",
+              "start": 67,
+              "username": "wlxlmjj"
+            },
+            {
+              "end": 92,
+              "id": "1987868389709422593",
+              "start": 76,
+              "username": "ruki52621534059"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 120,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2023273938206527488/cAhpbr3w?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2023273938206527488/cAhpbr3w?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/BEGPJYUUOc"
+            },
+            {
+              "display_url": "pic.x.com/PYIqUfDQyQ",
+              "end": 144,
+              "expanded_url": "https://x.com/Min1440r/status/2025260320810487970/photo/1",
+              "media_key": "3_2025260318096809984",
+              "start": 121,
+              "url": "https://t.co/PYIqUfDQyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025260320810487970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @fb_tx71061 @thewishpool\n👰 配偶: @234qaq\n👶 孩子: @wlxlmjj @ruki52621534059\n\n➡️ https://t.co/BEGPJYUUOc https://t.co/PYIqUfDQyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 33,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:08:12.000Z",
+        "description": "想要和大家所有人一起玩游戏！想和你一起。 痛苦与欢乐让我们一起面对。 ip江苏苏州/江苏盐城来找我玩来找我玩！ 我爱你们。NGL提问：https://t.co/9e5mRIkpE5 负能里推：@Stressmaxp加我q好嘛可能会注销",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Stressmaxp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/min1440r",
+                "end": 90,
+                "expanded_url": "https://ngl.link/min1440r",
+                "start": 67,
+                "url": "https://t.co/9e5mRIkpE5"
+              }
+            ]
+          }
+        },
+        "id": "2001670790669058048",
+        "location": "江苏省苏州市长江路55号",
+        "name": "1440r/min🏳️‍⚧️",
+        "pinned_tweet_id": "2024210469960253930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671000900210688/tRq7Bkqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 50,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1027
+        },
+        "username": "Min1440r",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T18:30:57.000Z",
+        "description": "把我当成精神病就好了",
+        "id": "1904239490132246528",
+        "name": "今天又是快乐的一天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020862551610015744/l5-ZafSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 62,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 422
+        },
+        "username": "fb_tx71061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T10:51:58.000Z",
+        "description": "小池是貓",
+        "id": "1822949088494850048",
+        "location": "在推特養貓貓",
+        "name": "小小許願池",
+        "pinned_tweet_id": "1839742469002670102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975918932856127488/UxICOcVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 847,
+          "like_count": 38230,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2668
+        },
+        "username": "thewishpool",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T16:54:16.000Z",
+        "description": "喜欢小猫 🚪0/9999/99999/   匿名问我问题吧https://t.co/Xs4wUELEBh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/23465562",
+                "end": 52,
+                "expanded_url": "https://ngl.link/23465562",
+                "start": 29,
+                "url": "https://t.co/Xs4wUELEBh"
+              }
+            ]
+          }
+        },
+        "id": "1634598602126540800",
+        "name": "3222号工具人",
+        "pinned_tweet_id": "2001602896178356646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004859859259568128/sGFfmyVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 169,
+          "like_count": 9479,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1730
+        },
+        "username": "234qaq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T13:02:21.000Z",
+        "description": "今は愛を探すよ、もともと私を愛するようきみたち人。 可以叫我人类或者ヒト。 生理男心理60 ​%男| 阴暗系 | 友跨丨消肿且老资历 | 中文 English 日本語  | INFP | | 亚文化 二次元 视觉系 摇滚 音游 文艺 地偶 说唱 电子音乐 大好き | 来这里是为了乱说话，看萌萌的东西和交朋友的！！",
+        "id": "1987868389709422593",
+        "location": "天空",
+        "name": "人間が好き",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663639071191040/0KKOfsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 70,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 378
+        },
+        "username": "ruki52621534059",
+        "verified": false
+      }
+    ]
+  }
+}

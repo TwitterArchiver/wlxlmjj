@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2025005884041220327",
+    "created_at": "2026-02-21T01:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T02:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025013338317750689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zer0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025013338317750689",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025005884041220327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zer0 睡觉都打，恐怖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2025005884041220327",
+        "created_at": "2026-02-21T01:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025013338317750689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zer0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025013338317750689",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025005884041220327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zer0 睡觉都打，恐怖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2025005884041220327",
+        "created_at": "2026-02-21T00:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025005884041220327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025005884041220327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家里就算够傻逼，他们现在已经嗯，改邪归正了，但是他们对我16年的伤害，我永远都无法忘记，太逆天了，各种很诡异的理由，就是我不看他。给我看了成功人士演讲，他就打我，我看动画片看动漫，他就看见了就打我说你这么大了还看这个，能不能看点综艺，新闻联播，觉得我得网瘾，手机给他，我睡觉都打我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "𤓰𤓯𤝂𤜺𤣪𤰒𥝌𥤢𦫵𦫳𧟠𧠇𧥜",
+        "id": "1894997343088656384",
+        "location": "𣎹𣏛𣥄𣥃𣥂",
+        "name": "𣎳𪠽𣦶𣱱",
+        "pinned_tweet_id": "2016955540799463780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 33,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 102
+        },
+        "username": "wlxlmjj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 车万  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3919,
+          "following_count": 550,
+          "like_count": 7123,
+          "listed_count": 8,
+          "media_count": 300,
+          "tweet_count": 3597
+        },
+        "username": "xiaoyv_zer0",
+        "verified": false
+      }
+    ]
+  }
+}

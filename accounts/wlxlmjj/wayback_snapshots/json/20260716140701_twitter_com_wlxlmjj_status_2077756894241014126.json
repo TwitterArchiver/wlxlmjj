@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2077653731957686419",
+    "created_at": "2026-07-16T14:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077756894241014126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510099512034922497",
+          "start": 0,
+          "username": "CCskadoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077756894241014126",
+    "in_reply_to_user_id": "1510099512034922497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077755593138548852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCskadoodle 不卡，欢迎加入！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077653731957686419",
+        "created_at": "2026-07-16T14:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077756894241014126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510099512034922497",
+              "start": 0,
+              "username": "CCskadoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077756894241014126",
+        "in_reply_to_user_id": "1510099512034922497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077755593138548852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCskadoodle 不卡，欢迎加入！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510099512034922497",
+        "conversation_id": "2077653731957686419",
+        "created_at": "2026-07-16T14:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077755593138548852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077755593138548852",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077653731957686419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 卡余额嘛🥺余额不超过三十可以加入嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 302,
+          "like_count": 8691,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-02T03:39:26.000Z",
+        "description": "Type Moon好き！\nアニメと…\n最喜欢👁️👁️别人，还有型月一切相关❤️\nGameplay best love 基本上什么类型都玩，galgame也很喜欢，还有科幻小说…\nFGO or anything😊\n❤️❤️Love from Kohaku❤️❤️💊\nBTW May the force be with u！",
+        "id": "1510099512034922497",
+        "location": "迦蓝之堂",
+        "name": "C.C👑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075596255309496320/nC-CoIsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 238,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "CCskadoodle",
+        "verified": true
+      }
+    ]
+  }
+}
