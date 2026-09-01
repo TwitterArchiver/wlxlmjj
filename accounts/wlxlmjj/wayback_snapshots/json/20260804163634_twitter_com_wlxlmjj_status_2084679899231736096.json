@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2084273849215123586",
+    "created_at": "2026-08-04T16:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084679899231736096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2075919217799655424",
+          "start": 0,
+          "username": "Angelcat1te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084679899231736096",
+    "in_reply_to_user_id": "2075919217799655424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084620068936364347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angelcat1te 惨圈妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2084273849215123586",
+        "created_at": "2026-08-04T16:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084679899231736096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2075919217799655424",
+              "start": 0,
+              "username": "Angelcat1te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084679899231736096",
+        "in_reply_to_user_id": "2075919217799655424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084620068936364347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelcat1te 惨圈妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075919217799655424",
+        "conversation_id": "2084273849215123586",
+        "created_at": "2026-08-04T12:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084620068936364347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084620068936364347",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084273849215123586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 餐券妹是什么呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 327,
+          "like_count": 11692,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-11T12:31:51.000Z",
+        "description": "不许说我少管我",
+        "id": "2075919217799655424",
+        "name": "恋兔癖",
+        "pinned_tweet_id": "2082234970760974688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082236826862125056/5o7pvU_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 64,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "Angelcat1te",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093265388851322880",
+        "3_2093265405410496512",
+        "3_2093265418681274368",
+        "3_2093265425534754816"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "conversation_id": "2093265431272521981",
+    "created_at": "2026-08-28T09:12:24.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T10:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093265431272521981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXVMRJbgGT",
+          "end": 44,
+          "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+          "media_key": "3_2093265388851322880",
+          "start": 21,
+          "url": "https://t.co/tXVMRJbgGT"
+        },
+        {
+          "display_url": "pic.x.com/tXVMRJbgGT",
+          "end": 44,
+          "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+          "media_key": "3_2093265405410496512",
+          "start": 21,
+          "url": "https://t.co/tXVMRJbgGT"
+        },
+        {
+          "display_url": "pic.x.com/tXVMRJbgGT",
+          "end": 44,
+          "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+          "media_key": "3_2093265418681274368",
+          "start": 21,
+          "url": "https://t.co/tXVMRJbgGT"
+        },
+        {
+          "display_url": "pic.x.com/tXVMRJbgGT",
+          "end": 44,
+          "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+          "media_key": "3_2093265425534754816",
+          "start": 21,
+          "url": "https://t.co/tXVMRJbgGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093265431272521981",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093265388851322880"
+      },
+      {
+        "media_key": "3_2093265405410496512"
+      },
+      {
+        "media_key": "3_2093265418681274368"
+      },
+      {
+        "media_key": "3_2093265425534754816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鉴于主播一发照片就掉列所以我在推特试试。 https://t.co/tXVMRJbgGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093265388851322880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzFx9MaYAAGi7N.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093265405410496512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzFy64bUAApunv.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2344,
+        "media_key": "3_2093265418681274368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzFzsUbUAAkVP6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2093265425534754816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzF0F2bIAA871w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093265388851322880",
+            "3_2093265405410496512",
+            "3_2093265418681274368",
+            "3_2093265425534754816"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "conversation_id": "2093265431272521981",
+        "created_at": "2026-08-28T09:12:24.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093265431272521981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXVMRJbgGT",
+              "end": 44,
+              "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+              "media_key": "3_2093265388851322880",
+              "start": 21,
+              "url": "https://t.co/tXVMRJbgGT"
+            },
+            {
+              "display_url": "pic.x.com/tXVMRJbgGT",
+              "end": 44,
+              "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+              "media_key": "3_2093265405410496512",
+              "start": 21,
+              "url": "https://t.co/tXVMRJbgGT"
+            },
+            {
+              "display_url": "pic.x.com/tXVMRJbgGT",
+              "end": 44,
+              "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+              "media_key": "3_2093265418681274368",
+              "start": 21,
+              "url": "https://t.co/tXVMRJbgGT"
+            },
+            {
+              "display_url": "pic.x.com/tXVMRJbgGT",
+              "end": 44,
+              "expanded_url": "https://x.com/wlxlmjj/status/2093265431272521981/photo/1",
+              "media_key": "3_2093265425534754816",
+              "start": 21,
+              "url": "https://t.co/tXVMRJbgGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093265431272521981",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093265388851322880"
+          },
+          {
+            "media_key": "3_2093265405410496512"
+          },
+          {
+            "media_key": "3_2093265418681274368"
+          },
+          {
+            "media_key": "3_2093265425534754816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于主播一发照片就掉列所以我在推特试试。 https://t.co/tXVMRJbgGT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2093265431272521981",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 329,
+          "like_count": 12424,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

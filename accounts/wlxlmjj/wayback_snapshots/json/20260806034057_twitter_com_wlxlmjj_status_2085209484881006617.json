@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2084920170863284343",
+    "created_at": "2026-08-06T03:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085209484881006617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034495697530347521",
+          "start": 0,
+          "username": "ggnn1233926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085209484881006617",
+    "in_reply_to_user_id": "2034495697530347521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085018461290541299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggnn1233926 不知道啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2084920170863284343",
+        "created_at": "2026-08-06T03:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085209484881006617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034495697530347521",
+              "start": 0,
+              "username": "ggnn1233926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085209484881006617",
+        "in_reply_to_user_id": "2034495697530347521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085018461290541299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggnn1233926 不知道啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034495697530347521",
+        "conversation_id": "2084920170863284343",
+        "created_at": "2026-08-05T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085018461290541299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085018461290541299",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084920170863284343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 为啥要谈对象！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 337,
+          "like_count": 11688,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T05:04:34.000Z",
+        "description": "＝雪村りんご/Наталья\n成人済み｜雑多｜病み垢｜🐼CN♀｜Plurality・OSDD ‖ OC｜FGO尼禄/娄希（ネロ/ロウシ）‖精神状態が不安定です｜無言フォローごめんなさい｜英語・日本語は翻訳ツール\nQpr：@creamsconeee🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "creamsconeee"
+              }
+            ]
+          }
+        },
+        "id": "2034495697530347521",
+        "location": "雰囲気",
+        "name": "りんご飴🍎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083602513497042944/KLUzgB05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "ggnn1233926",
+        "verified": false
+      }
+    ]
+  }
+}

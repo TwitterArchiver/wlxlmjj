@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2085645970063376817",
+    "created_at": "2026-08-07T08:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085645970063376817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c2F4F4F/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/c2F4F4F/status/2085622624135315879",
+          "start": 25,
+          "url": "https://t.co/WUVrBi2opO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085645970063376817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085622624135315879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还真喝过这狗市东西，建议别喝，太恶心了吐了一堆 https://t.co/WUVrBi2opO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2469,
+        "media_key": "3_2085622614677196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGet8tbEAAJ3qk.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2085645970063376817",
+        "created_at": "2026-08-07T08:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085645970063376817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c2F4F4F/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/c2F4F4F/status/2085622624135315879",
+              "start": 25,
+              "url": "https://t.co/WUVrBi2opO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085645970063376817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085622624135315879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还真喝过这狗市东西，建议别喝，太恶心了吐了一堆 https://t.co/WUVrBi2opO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085622614677196800"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2085622624135315879",
+        "created_at": "2026-08-07T07:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085622624135315879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2o0heSqpiz",
+              "end": 26,
+              "expanded_url": "https://x.com/c2F4F4F/status/2085622624135315879/photo/1",
+              "media_key": "3_2085622614677196800",
+              "start": 3,
+              "url": "https://t.co/2o0heSqpiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085622624135315879",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😂？ https://t.co/2o0heSqpiz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 340,
+          "like_count": 11950,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 🍥 | 重抑中焦吃药中 |望厨 | This is a parody account",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 592,
+          "like_count": 10911,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": true
+      }
+    ]
+  }
+}

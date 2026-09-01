@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2085644837362270454",
+    "created_at": "2026-08-07T08:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085644837362270454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Devastated1726…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Devastated1726/status/2085376770602397941",
+          "start": 5,
+          "url": "https://t.co/fXYgoTdALR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085644837362270454",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085376770602397941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。。 https://t.co/fXYgoTdALR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2085376765745340416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPC_HqEaoAAzhhg.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2085644837362270454",
+        "created_at": "2026-08-07T08:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085644837362270454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Devastated1726…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Devastated1726/status/2085376770602397941",
+              "start": 5,
+              "url": "https://t.co/fXYgoTdALR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085644837362270454",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085376770602397941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。。 https://t.co/fXYgoTdALR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085376765745340416"
+          ]
+        },
+        "author_id": "1929464299115679745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085376770602397941",
+        "created_at": "2026-08-06T14:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085376770602397941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lx4e8bwtZE",
+              "end": 23,
+              "expanded_url": "https://x.com/Devastated1726/status/2085376770602397941/photo/1",
+              "media_key": "3_2085376765745340416",
+              "start": 0,
+              "url": "https://t.co/lx4e8bwtZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085376770602397941",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lx4e8bwtZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 340,
+          "like_count": 11908,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸。\n记录有气无力的生活。\n女孩子来互fo",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2066137333611876366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057452165770162176/Qa_B0ZB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 139,
+          "like_count": 330,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 1633
+        },
+        "url": "",
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}
