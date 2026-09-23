@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099844468971114496",
+        "3_2099844481944084481",
+        "3_2099844499883118592",
+        "3_2099844514764480512"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099844788111442168",
+    "created_at": "2026-09-15T12:56:25.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099844788111442168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cdfgeaTPUC",
+          "end": 94,
+          "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+          "media_key": "3_2099844468971114496",
+          "start": 71,
+          "url": "https://t.co/cdfgeaTPUC"
+        },
+        {
+          "display_url": "pic.x.com/cdfgeaTPUC",
+          "end": 94,
+          "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+          "media_key": "3_2099844481944084481",
+          "start": 71,
+          "url": "https://t.co/cdfgeaTPUC"
+        },
+        {
+          "display_url": "pic.x.com/cdfgeaTPUC",
+          "end": 94,
+          "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+          "media_key": "3_2099844499883118592",
+          "start": 71,
+          "url": "https://t.co/cdfgeaTPUC"
+        },
+        {
+          "display_url": "pic.x.com/cdfgeaTPUC",
+          "end": 94,
+          "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+          "media_key": "3_2099844514764480512",
+          "start": 71,
+          "url": "https://t.co/cdfgeaTPUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099844788111442168",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099844468971114496"
+      },
+      {
+        "media_key": "3_2099844481944084481"
+      },
+      {
+        "media_key": "3_2099844499883118592"
+      },
+      {
+        "media_key": "3_2099844514764480512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "置顶\n我是条码，互联网精神病大杂烩，欢迎来墙内找我玩，联系方式私信喵\n愈美片/pr80在售，三盒及以内邮费8，三盒以上包邮喵\n其他的私信解锁 https://t.co/cdfgeaTPUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2099844468971114496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQla0iXkAAbZy9.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2099844481944084481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQlbk3XYAE2fpK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 350,
+        "media_key": "3_2099844499883118592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQlcnsXUAADYfR.jpg",
+        "width": 392
+      },
+      {
+        "height": 1424,
+        "media_key": "3_2099844514764480512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQldfIW4AALUJS.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099844468971114496",
+            "3_2099844481944084481",
+            "3_2099844499883118592",
+            "3_2099844514764480512"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099844788111442168",
+        "created_at": "2026-09-15T12:56:25.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099844788111442168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdfgeaTPUC",
+              "end": 94,
+              "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+              "media_key": "3_2099844468971114496",
+              "start": 71,
+              "url": "https://t.co/cdfgeaTPUC"
+            },
+            {
+              "display_url": "pic.x.com/cdfgeaTPUC",
+              "end": 94,
+              "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+              "media_key": "3_2099844481944084481",
+              "start": 71,
+              "url": "https://t.co/cdfgeaTPUC"
+            },
+            {
+              "display_url": "pic.x.com/cdfgeaTPUC",
+              "end": 94,
+              "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+              "media_key": "3_2099844499883118592",
+              "start": 71,
+              "url": "https://t.co/cdfgeaTPUC"
+            },
+            {
+              "display_url": "pic.x.com/cdfgeaTPUC",
+              "end": 94,
+              "expanded_url": "https://x.com/wlxlmjj/status/2099844788111442168/photo/1",
+              "media_key": "3_2099844514764480512",
+              "start": 71,
+              "url": "https://t.co/cdfgeaTPUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099844788111442168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099844468971114496"
+          },
+          {
+            "media_key": "3_2099844481944084481"
+          },
+          {
+            "media_key": "3_2099844499883118592"
+          },
+          {
+            "media_key": "3_2099844514764480512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶\n我是条码，互联网精神病大杂烩，欢迎来墙内找我玩，联系方式私信喵\n愈美片/pr80在售，三盒及以内邮费8，三盒以上包邮喵\n其他的私信解锁 https://t.co/cdfgeaTPUC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2099844788111442168",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2095865628385325107",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 335,
+          "like_count": 13127,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
