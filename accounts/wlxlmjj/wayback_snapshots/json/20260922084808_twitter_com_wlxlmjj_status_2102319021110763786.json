@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102318991197011968"
+      ]
+    },
+    "author_id": "1894997343088656384",
+    "conversation_id": "2102319021110763786",
+    "created_at": "2026-09-22T08:48:08.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102319021110763786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wwsPNJYvr",
+          "end": 78,
+          "expanded_url": "https://x.com/wlxlmjj/status/2102319021110763786/photo/1",
+          "media_key": "3_2102318991197011968",
+          "start": 55,
+          "url": "https://t.co/8wwsPNJYvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102319021110763786",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102318991197011968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "消息炸了，精神状态炸了，我都有点怀疑我是精神分裂，我说出来的话像四五个人说出来的，到底是精神分裂还是人格分裂 https://t.co/8wwsPNJYvr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2102318991197011968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzv--LbAAA_8Kh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102318991197011968"
+          ]
+        },
+        "author_id": "1894997343088656384",
+        "conversation_id": "2102319021110763786",
+        "created_at": "2026-09-22T08:48:08.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102319021110763786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wwsPNJYvr",
+              "end": 78,
+              "expanded_url": "https://x.com/wlxlmjj/status/2102319021110763786/photo/1",
+              "media_key": "3_2102318991197011968",
+              "start": 55,
+              "url": "https://t.co/8wwsPNJYvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102319021110763786",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102318991197011968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "消息炸了，精神状态炸了，我都有点怀疑我是精神分裂，我说出来的话像四五个人说出来的，到底是精神分裂还是人格分裂 https://t.co/8wwsPNJYvr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2102319021110763786",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2099844788111442168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 356,
+          "like_count": 14027,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1143
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

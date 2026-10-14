@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2107120305290506451",
+    "created_at": "2026-10-05T23:34:31.000Z",
+    "display_text_range": [
+      13,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T00:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107253127309304098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107253127309304098",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107167390887014887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Science_010 大差不差吧毕竟小时候就真情实感的想死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2107120305290506451",
+        "created_at": "2026-10-05T23:34:31.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T00:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107253127309304098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107253127309304098",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107167390887014887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Science_010 大差不差吧毕竟小时候就真情实感的想死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2107120305290506451",
+        "created_at": "2026-10-05T17:53:49.000Z",
+        "display_text_range": [
+          9,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T18:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107167390887014887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107167390887014887",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107120305290506451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 如果老师不看推特，老师的精神状态还会是同样的样子吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2107253127309304098",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2104852834617618521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 432,
+          "like_count": 14427,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "世界上最区的人 男的 18 4i ISFJ/喜欢东方/平泽进/cs2/钢四欧四/后室/术/osu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XqtK"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107167390887014887",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500855672480489475/1769914627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087092802748616704/4WPyJ9kY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 1096,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 3099
+        },
+        "url": "https://t.co/Lu4Wy2XqtK",
+        "username": "Science_010",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2104172055340167346",
+    "created_at": "2026-09-27T11:31:26.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104172055340167346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104172055340167346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玉米片od经验：喝半口水，把几片玉米放在手里，用嘴唇掳进嘴里，嘴里的水包裹着玉米片，再喝一大口水咽下去，几乎尝不到苦味\n当然还是推荐去并夕夕买个切药器再买一袋子大号空胶囊手搓玉米胶囊，切两半刚好能装进空胶囊，耍起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2104172055340167346",
+        "created_at": "2026-09-27T11:31:26.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104172055340167346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104172055340167346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉米片od经验：喝半口水，把几片玉米放在手里，用嘴唇掳进嘴里，嘴里的水包裹着玉米片，再喝一大口水咽下去，几乎尝不到苦味\n当然还是推荐去并夕夕买个切药器再买一袋子大号空胶囊手搓玉米胶囊，切两半刚好能装进空胶囊，耍起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2104172055340167346",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2099844788111442168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 370,
+          "like_count": 14009,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1165
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2100729725778039246",
+    "created_at": "2026-10-02T13:04:40.000Z",
+    "display_text_range": [
+      8,
+      178
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106007457105629375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1452091160617308161",
+          "start": 0,
+          "username": "zorzMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106007457105629375",
+    "in_reply_to_user_id": "1452091160617308161",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100729725778039246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zorzMC OMG bro, I became your fan after this video,your voice is just so good! It helped me cheer up from feeling down, and that means so much to me. I wish you a wonderful day😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2100729164701872129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdKC49bsAEVKGF.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2100729253398794240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdKIDYbUAAkuAa.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2100729299691241472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdKKv1aAAAB7-L.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2100729363516014592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdKOdmawAAHl3N.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2100729725778039246",
+        "created_at": "2026-10-02T13:04:40.000Z",
+        "display_text_range": [
+          8,
+          178
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106007457105629375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1452091160617308161",
+              "start": 0,
+              "username": "zorzMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106007457105629375",
+        "in_reply_to_user_id": "1452091160617308161",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100729725778039246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zorzMC OMG bro, I became your fan after this video,your voice is just so good! It helped me cheer up from feeling down, and that means so much to me. I wish you a wonderful day😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100729164701872129",
+            "3_2100729253398794240",
+            "3_2100729299691241472",
+            "3_2100729363516014592"
+          ]
+        },
+        "author_id": "1452091160617308161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2100729725778039246",
+        "created_at": "2026-09-17T23:32:50.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T00:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100729725778039246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1gpLW97Jg",
+              "end": 218,
+              "expanded_url": "https://x.com/zorzMC/status/2100729725778039246/photo/1",
+              "media_key": "3_2100729164701872129",
+              "start": 195,
+              "url": "https://t.co/T1gpLW97Jg"
+            },
+            {
+              "display_url": "pic.x.com/T1gpLW97Jg",
+              "end": 218,
+              "expanded_url": "https://x.com/zorzMC/status/2100729725778039246/photo/1",
+              "media_key": "3_2100729253398794240",
+              "start": 195,
+              "url": "https://t.co/T1gpLW97Jg"
+            },
+            {
+              "display_url": "pic.x.com/T1gpLW97Jg",
+              "end": 218,
+              "expanded_url": "https://x.com/zorzMC/status/2100729725778039246/photo/1",
+              "media_key": "3_2100729299691241472",
+              "start": 195,
+              "url": "https://t.co/T1gpLW97Jg"
+            },
+            {
+              "display_url": "pic.x.com/T1gpLW97Jg",
+              "end": 218,
+              "expanded_url": "https://x.com/zorzMC/status/2100729725778039246/photo/1",
+              "media_key": "3_2100729363516014592",
+              "start": 195,
+              "url": "https://t.co/T1gpLW97Jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100729725778039246",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100729164701872129"
+          },
+          {
+            "media_key": "3_2100729253398794240"
+          },
+          {
+            "media_key": "3_2100729299691241472"
+          },
+          {
+            "media_key": "3_2100729363516014592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "\"The Entire History of MrBeast's Minecraft Server\" is my next video, and I've been working hard to finish it soon.\n\n6 years compiled into A MOVIE, that has already been in the works for 2 years. https://t.co/T1gpLW97Jg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2106007457105629375",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2104852834617618521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 427,
+          "like_count": 14311,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-24T01:55:04.000Z",
+        "description": "Luke 9:26\nBuilder @BluePrintUpdate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "BluePrintUpdate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "solo.to/zorzsocials",
+                "end": 23,
+                "expanded_url": "https://solo.to/zorzsocials",
+                "start": 0,
+                "url": "https://t.co/mgFphqOEHW"
+              }
+            ]
+          }
+        },
+        "id": "1452091160617308161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104680602465382896",
+        "name": "zorz",
+        "pinned_tweet_id": "2100729725778039246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452091160617308161/1708111292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012807598467137536/D8w3RTtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 50,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/mgFphqOEHW",
+        "username": "zorzMC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

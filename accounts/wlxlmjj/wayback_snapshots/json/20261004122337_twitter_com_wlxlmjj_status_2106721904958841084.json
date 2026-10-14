@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2106721904958841084",
+    "created_at": "2026-10-04T12:23:37.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106721904958841084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11andpr8964896…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/11andpr89648964/status/2106717769203147019",
+          "start": 14,
+          "url": "https://t.co/kdanyk7DCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106721904958841084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106717769203147019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生命可以重来，高考只有一次 https://t.co/kdanyk7DCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2106717745857654784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyQoMPbcAAtQER.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2106721904958841084",
+        "created_at": "2026-10-04T12:23:37.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106721904958841084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11andpr8964896…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/11andpr89648964/status/2106717769203147019",
+              "start": 14,
+              "url": "https://t.co/kdanyk7DCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106721904958841084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106717769203147019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生命可以重来，高考只有一次 https://t.co/kdanyk7DCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106717745857654784"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106717769203147019",
+        "created_at": "2026-10-04T12:07:11.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106717769203147019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOC2xafVal",
+              "end": 29,
+              "expanded_url": "https://x.com/11andpr89648964/status/2106717769203147019/photo/1",
+              "media_key": "3_2106717745857654784",
+              "start": 6,
+              "url": "https://t.co/OOC2xafVal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106717769203147019",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106717745857654784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就磕咋了 https://t.co/OOC2xafVal"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2106721904958841084",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2104852834617618521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 434,
+          "like_count": 14427,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1153
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2106717769203147019",
+        "name": "11",
+        "pinned_tweet_id": "2102396462864937268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 989,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 2384
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

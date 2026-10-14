@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2106013551005712552",
+    "created_at": "2026-10-02T13:33:49.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106014794234945638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1772860258710622208",
+          "start": 0,
+          "username": "xxxixixm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106014794234945638",
+    "in_reply_to_user_id": "1772860258710622208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106014609031266574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxixixm 我懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2106013551005712552",
+        "created_at": "2026-10-02T13:33:49.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106014794234945638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1772860258710622208",
+              "start": 0,
+              "username": "xxxixixm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106014794234945638",
+        "in_reply_to_user_id": "1772860258710622208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106014609031266574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxixixm 我懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772860258710622208",
+        "conversation_id": "2106013551005712552",
+        "created_at": "2026-10-02T13:33:05.000Z",
+        "display_text_range": [
+          9,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106014609031266574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106014609031266574",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106013551005712552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 鸡哥呀。他o了晚安之后说出了那句震惊世人的\"我？变成了一只鸡！？\"这样后来晚安就被叫鸡尘了尘应该是当时的药都喜欢起这个字大概是这样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2106014794234945638",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2104852834617618521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 428,
+          "like_count": 14358,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1139
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "叫我笑笑｜无限期躺平｜o🔪同类互fo｜第二人格@xxbxixi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xxbxixi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1O7D"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106014609031266574",
+        "name": "网警",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772860258710622208/1784965318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 201,
+          "like_count": 4476,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/AZm1US1O7D",
+        "username": "xxxixixm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2102336419545100765",
+    "created_at": "2026-09-22T13:53:22.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T14:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102395835560456258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826281483675299840",
+          "start": 0,
+          "username": "ci_shang85157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102395835560456258",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102388632367886452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci_shang85157 我去！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2102336419545100765",
+        "created_at": "2026-09-22T13:53:22.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102395835560456258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102395835560456258",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102388632367886452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 我去！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2102336419545100765",
+        "created_at": "2026-09-22T13:24:45.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102388632367886452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102388632367886452",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102336419545100765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 来吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2102395835560456258",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2099844788111442168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 362,
+          "like_count": 14066,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答。  嗯我是男生 不要认错了。妈妈@YuganQwQ 欢迎大家找我玩。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "YuganQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102389757556957268",
+        "name": "永雏泉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826281483675299840/1739601675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 799,
+          "like_count": 26160,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 9578
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

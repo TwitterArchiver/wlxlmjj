@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1894997343088656384",
+    "conversation_id": "2106013551005712552",
+    "created_at": "2026-10-02T13:33:22.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106014680942809446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2072256094823407616",
+          "start": 0,
+          "username": "akaaa013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106014680942809446",
+    "in_reply_to_user_id": "2072256094823407616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106014573224431712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akaaa013 我变成了一只鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2106013551005712552",
+        "created_at": "2026-10-02T13:33:22.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106014680942809446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2072256094823407616",
+              "start": 0,
+              "username": "akaaa013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106014680942809446",
+        "in_reply_to_user_id": "2072256094823407616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106014573224431712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akaaa013 我变成了一只鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072256094823407616",
+        "conversation_id": "2106013551005712552",
+        "created_at": "2026-10-02T13:32:56.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106014573224431712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894997343088656384",
+              "start": 0,
+              "username": "wlxlmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106014573224431712",
+        "in_reply_to_user_id": "1894997343088656384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106013551005712552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlxlmjj 剧烈变形"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "id": "1894997343088656384",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2106014680942809446",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2104852834617618521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894997343088656384/1774139681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101119606308196355/vxrdFukL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 428,
+          "like_count": 14358,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "wlxlmjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T09:50:42.000Z",
+        "description": "爱狗||不看消息\n欧欧又歌歌",
+        "id": "2072256094823407616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106014573224431712",
+        "name": "用户0713",
+        "pinned_tweet_id": "2101548325350637735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072256094823407616/1783916908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100267560293863424/1rWIJ4WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 17,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "akaaa013",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
